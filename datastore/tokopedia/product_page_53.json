@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Paket Bersih di Mana Saja",
+    "price": 91700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:51:42 +0700"
+  },
+  {
+    "id": 2,
+    "name": "Paket Anti Apek Untuk Keluarga",
+    "price": 105700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:51:42 +0700"
+  },
+  {
+    "id": 3,
+    "name": "Paket Anti Apek Untuk Si Kecil",
+    "price": 75800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:51:42 +0700"
+  },
+  {
+    "id": 4,
+    "name": "Paket Rumah Anti Bakteri",
+    "price": 84700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:51:42 +0700"
+  }
+]

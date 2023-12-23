@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Hampers Special Unilever 179K",
+    "price": 425600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Hampers Special Unilever 125K",
+    "price": 234900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Pepsodent Mouthwash Siwak 150ml",
+    "price": 13400.0,
+    "originalprice": 21900.0,
+    "discountpercentage": 39.0,
+    "detail": "150.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Simple Water Boost Micellar Cleansing Water 400ml",
+    "price": 120100.0,
+    "originalprice": 175900.0,
+    "discountpercentage": 32.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Simple Kind To Skin Cleansing Facial Wipes 25s",
+    "price": 54300.0,
+    "originalprice": 79900.0,
+    "discountpercentage": 32.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Simple Kind To Skin Hydrating Light Moisturizer 125Ml",
+    "price": 128900.0,
+    "originalprice": 172900.0,
+    "discountpercentage": 25.0,
+    "detail": "125.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Simple Kind To Skin Refreshing Facial Wash 150Ml",
+    "price": 65075.0,
+    "originalprice": 87900.0,
+    "discountpercentage": 26.0,
+    "detail": "150.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Simple Water Boost Micellar Facial Gel Wash 150Ml",
+    "price": 86800.0,
+    "originalprice": 95900.0,
+    "discountpercentage": 9.0,
+    "detail": "150.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Simple Kind To Skin Soothing Facial Toner 200Ml",
+    "price": 83100.0,
+    "originalprice": 110900.0,
+    "discountpercentage": 25.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Vaseline Repairing Foot Mask with Vaseline Jelly & Niacinamide",
+    "price": 32100.0,
+    "originalprice": 42100.0,
+    "discountpercentage": 24.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Citra Hand Body Lotion Bengkoang Natural Glow 250ml",
+    "price": 28600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Tresemme Keratin Smooth Package Shampoo & Conditioner Special Price",
+    "price": 201800.0,
+    "originalprice": 236300.0,
+    "discountpercentage": 15.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Dove Shampoo & Conditioner Perawatan Rambut Rontok Special Price",
+    "price": 215100.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Ponds Men Oil Crusher Facial Foam 100G - Spiderman Edition",
+    "price": 37300.0,
+    "originalprice": 43300.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Ponds Men Bright Blast Face Sheet Mask 20G - Spiderman Edition",
+    "price": 22200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  },
+  {
+    "id": 16,
+    "name": "Ponds Men Acno Striker Facial Scrub 100G - Spiderman Edition",
+    "price": 37300.0,
+    "originalprice": 43300.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:49 +0000"
+  }
+]

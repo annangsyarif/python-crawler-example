@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Paket Perlindungan Maksimal",
+    "price": 103800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:37 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Paket Dapur Bersih Maksimal",
+    "price": 166700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:37 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Camay Naturel 80g",
+    "price": 3900.0,
+    "originalprice": 5900.0,
+    "discountpercentage": 34.0,
+    "detail": "80.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:37 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Camay Classic 80g",
+    "price": 3900.0,
+    "originalprice": 5900.0,
+    "discountpercentage": 34.0,
+    "detail": "80.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:37 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Clear Shampoo Men Cool Sport Menthol 70Ml",
+    "price": 14300.0,
+    "originalprice": 18200.0,
+    "discountpercentage": 21.0,
+    "detail": "70.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:37 +0000"
+  }
+]

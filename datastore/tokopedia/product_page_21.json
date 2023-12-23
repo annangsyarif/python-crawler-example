@@ -1,0 +1,412 @@
+[
+  {
+    "id": 1,
+    "name": "Pepsodent Sensitive Mineral Expert Pasta Gigi Original 100G",
+    "price": 32200.0,
+    "originalprice": 51900.0,
+    "discountpercentage": 38.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 2,
+    "name": "PONDS AGE MIRACLE ANTIAGING NIGHT CREAM YOUTHFUL GLOW MOISTURIZER 50G",
+    "price": 195700.0,
+    "originalprice": 213100.0,
+    "discountpercentage": 8.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Zwitsal Baby Bath Natural 2-In-1 Hair&Body 100ml",
+    "price": 13200.0,
+    "originalprice": 21900.0,
+    "discountpercentage": 40.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Zwitsal Baby Cream Extra Care Zinc 50ml",
+    "price": 18700.0,
+    "originalprice": 30900.0,
+    "discountpercentage": 39.0,
+    "detail": "50.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Zwitsal Natural Baby Shampoo Aloe Vera Kemiri Seledri 100Ml",
+    "price": 13600.0,
+    "originalprice": 21900.0,
+    "discountpercentage": 38.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Zwitsal Baby Hair Lotion Aloe Vera Kemiri Seledri 100 Ml",
+    "price": 25400.0,
+    "originalprice": 40900.0,
+    "discountpercentage": 38.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Vaseline Lotion Intensive Care Advanced Strength 100ml",
+    "price": 22600.0,
+    "originalprice": 28700.0,
+    "discountpercentage": 21.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Vaseline Healthy Bright Hand Body Lotion Spf24 100ml",
+    "price": 22600.0,
+    "originalprice": 28700.0,
+    "discountpercentage": 21.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Vaseline Healthy Bright Hand Body Lotion Spf 30 Serum Kulit 180Ml",
+    "price": 46300.0,
+    "originalprice": 57300.0,
+    "discountpercentage": 19.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Vaseline Lotion Intensive Care Cocoa Radiant 200Ml",
+    "price": 39500.0,
+    "originalprice": 50200.0,
+    "discountpercentage": 21.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Sunsilk Conditioner Soft & Smooth 160Ml",
+    "price": 28700.0,
+    "originalprice": 32300.0,
+    "discountpercentage": 11.0,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Sunsilk Conditioner Black Shine 170ml",
+    "price": 28700.0,
+    "originalprice": 32300.0,
+    "discountpercentage": 11.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Rexona Women Deodorant Anti-Perspirant Roll On Invinsible Dry 45Ml",
+    "price": 19300.0,
+    "originalprice": 22400.0,
+    "discountpercentage": 14.0,
+    "detail": "45.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Pepsodent Action 123 Toothpaste Pasta Gigi Complete 190G",
+    "price": 19600.0,
+    "originalprice": 31900.0,
+    "discountpercentage": 39.0,
+    "detail": "190.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 15,
+    "name": "PEPSODENT WHITE TOOTHPASTE PASTA GIGI PENCEGAH GIGI BERLUBANG 190G",
+    "price": 13700.0,
+    "originalprice": 16000.0,
+    "discountpercentage": 14.0,
+    "detail": "190.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 16,
+    "name": "PEPSODENT ACTION 123 TOOTH PASTE PASTA GIGI HERBAL PENYEGAR MULUT 190G",
+    "price": 18300.0,
+    "originalprice": 29900.0,
+    "discountpercentage": 39.0,
+    "detail": "190.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 17,
+    "name": "Lux Soft Touch Sabun Cair Refill 250ml",
+    "price": 19000.0,
+    "originalprice": 22100.0,
+    "discountpercentage": 14.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 18,
+    "name": "Lux Velvet Touch Sabun Cair Refill 250ml",
+    "price": 19000.0,
+    "originalprice": 22100.0,
+    "discountpercentage": 14.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 19,
+    "name": "Lux Magical Spell Sabun Cair Refill 250ml",
+    "price": 19000.0,
+    "originalprice": 22100.0,
+    "discountpercentage": 14.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 20,
+    "name": "Closeup Pasta Gigi Gel Green Gaga 65g",
+    "price": 7000.0,
+    "originalprice": 8100.0,
+    "discountpercentage": 14.0,
+    "detail": "65.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 21,
+    "name": "Vaseline Healthy Bright Hand Body Lotion Spf 24 400Ml - Healthy Bright",
+    "price": 68100.0,
+    "originalprice": 86700.0,
+    "discountpercentage": 21.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 22,
+    "name": "Vixal Pembersih Porselen Kamar Mandi Ekstra Kuat 750ml",
+    "price": 16600.0,
+    "originalprice": 24900.0,
+    "discountpercentage": 33.0,
+    "detail": "750.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 23,
+    "name": "SUNLIGHT SABUN CUCI PIRING JERUK NIPIS BOTOL 750ML",
+    "price": 34300.0,
+    "originalprice": 53900.0,
+    "discountpercentage": 36.0,
+    "detail": "750.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 24,
+    "name": "Sunlight Sabun Cuci Piring Jeruk Nipis Refill 1500Ml",
+    "price": 25600.0,
+    "originalprice": 54000.0,
+    "discountpercentage": 53.0,
+    "detail": "1500.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 25,
+    "name": "Lux Sabun Cair Velvet Jasmine Refill 400ML",
+    "price": 24900.0,
+    "originalprice": 32800.0,
+    "discountpercentage": 24.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 26,
+    "name": "LIFEBUOY SABUN MANDI CAIR PUMP MILD CARE 500ML - ANTI BAKTERI",
+    "price": 59500.0,
+    "originalprice": 95900.0,
+    "discountpercentage": 38.0,
+    "detail": "500.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 27,
+    "name": "Lifebuoy Sabun Mandi Cair Mild Care Botol 300Ml",
+    "price": 42200.0,
+    "originalprice": 67900.0,
+    "discountpercentage": 38.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 28,
+    "name": "Lifebuoy Sabun Mandi Cair Total 10 Botol 300Ml",
+    "price": 42200.0,
+    "originalprice": 67900.0,
+    "discountpercentage": 38.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 29,
+    "name": "Lifebuoy Sabun Cair Lemon Fresh Refill 400Ml",
+    "price": 22100.0,
+    "originalprice": 38900.0,
+    "discountpercentage": 43.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 30,
+    "name": "Lifebuoy Shampoo Strong And Shiny 680Ml - Perawatan Rambut",
+    "price": 52400.0,
+    "originalprice": 66700.0,
+    "discountpercentage": 21.0,
+    "detail": "680.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 31,
+    "name": "Lifebuoy Sabun Mandi Cair Total 10 500Ml -Sabun Antibakteri",
+    "price": 59500.0,
+    "originalprice": 95900.0,
+    "discountpercentage": 38.0,
+    "detail": "500.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 32,
+    "name": "Lifebuoy Sabun Cair Mild Care Refill 400Ml",
+    "price": 22100.0,
+    "originalprice": 38900.0,
+    "discountpercentage": 43.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 33,
+    "name": "LIFEBUOY SHAMPOO STRONG & SHINY 170ML",
+    "price": 23000.0,
+    "originalprice": 37900.0,
+    "discountpercentage": 39.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 34,
+    "name": "Lifebuoy Shampoo Strong Shiny 340Ml",
+    "price": 40200.0,
+    "originalprice": 47300.0,
+    "discountpercentage": 15.0,
+    "detail": "340.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 35,
+    "name": "Lifebuoy Sabun Cair Total 10 Refill 400Ml",
+    "price": 22100.0,
+    "originalprice": 38900.0,
+    "discountpercentage": 43.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 36,
+    "name": "Lifebuoy Sabun Cair Cool Fresh Refill 400Ml",
+    "price": 22100.0,
+    "originalprice": 38900.0,
+    "discountpercentage": 43.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 37,
+    "name": "Citra Pearly White Facial Foam 100G",
+    "price": 34000.0,
+    "originalprice": 38200.0,
+    "discountpercentage": 11.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 38,
+    "name": "Citra Face Cream Moisturizer Pelembab Wajah Pearly Glow 40G",
+    "price": 45700.0,
+    "originalprice": 51500.0,
+    "discountpercentage": 11.0,
+    "detail": "40.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 39,
+    "name": "Citra Aloe Vera Body Gel Fresh Glow Uv 210Ml",
+    "price": 29600.0,
+    "originalprice": 33300.0,
+    "discountpercentage": 11.0,
+    "detail": "210.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 40,
+    "name": "Vaseline Lotion Intensive Care Aloe Soothe 400Ml",
+    "price": 40100.0,
+    "originalprice": 66900.0,
+    "discountpercentage": 40.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  },
+  {
+    "id": 41,
+    "name": "Vaseline Lotion Healthy Sunblock Spf30 100Ml",
+    "price": 55100.0,
+    "originalprice": 68200.0,
+    "discountpercentage": 19.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:02 +0000"
+  }
+]

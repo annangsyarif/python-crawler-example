@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Glow & Lovely Brightening Facial Foam dengan Multivitamin 50G",
+    "price": 17600.0,
+    "originalprice": 25900.0,
+    "discountpercentage": 32.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:14 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Pond'S Men Dirt Fader Sabun Muka 100G",
+    "price": 48900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:14 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Pond'S Men Oil Blaster Sabun Muka 100G",
+    "price": 48900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:14 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Pond'S Men Dirt Fader Masker Wajah 20G",
+    "price": 27900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:14 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Clear Shampoo Anti Bacterial Fresh Cool Lemon 300Ml",
+    "price": 53100.0,
+    "originalprice": 68200.0,
+    "discountpercentage": 22.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:14 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Sunsilk Super Shampoo Hello Lembut 160Ml",
+    "price": 25400.0,
+    "originalprice": 31600.0,
+    "discountpercentage": 20.0,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:14 +0000"
+  }
+]

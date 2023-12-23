@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "name": "Tresemme Shampoo Keratin Smooth 850Ml",
+    "price": 109500.0,
+    "originalprice": 116700.0,
+    "discountpercentage": 6.0,
+    "detail": "850.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Dove SHAMPO Anti Rambut Rontok PERAWATAN RAMBUT RONTOK 1400ML",
+    "price": 130300.0,
+    "originalprice": 168000.0,
+    "discountpercentage": 22.0,
+    "detail": "1400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Dove SHAMPO Anti Rambut Rontok PERAWATAN RAMBUT RONTOK 900ML",
+    "price": 88400.0,
+    "originalprice": 114000.0,
+    "discountpercentage": 22.0,
+    "detail": "900.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Clear Shampo Anti Ketombe COMPLETE SOFT CARE 850ML",
+    "price": 98700.0,
+    "originalprice": 111100.0,
+    "discountpercentage": 11.0,
+    "detail": "850.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Clear Shampo Anti Ketombe COMPLETE SOFT CARE 1200ML",
+    "price": 128400.0,
+    "originalprice": 144400.0,
+    "discountpercentage": 11.0,
+    "detail": "1200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Love Beauty & Planet Vegan Hand Cream Tucuma Butter & Vanilla 29ml",
+    "price": 43600.0,
+    "originalprice": 50500.0,
+    "discountpercentage": 14.0,
+    "detail": "29.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 7,
+    "name": "PEPSODENT SIKAT GIGI BRILIAN SIKAT GIGI LEMBUT",
+    "price": 3000.0,
+    "originalprice": 4900.0,
+    "discountpercentage": 39.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Clear Shampoo Complete Soft Care 660ml",
+    "price": 90000.0,
+    "originalprice": 100200.0,
+    "discountpercentage": 10.0,
+    "detail": "660.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Super Pell Pembersih Lantai Baby Lavender 770ml",
+    "price": 14200.0,
+    "originalprice": 18900.0,
+    "discountpercentage": 25.0,
+    "detail": "770.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Baby Dove Hair to Toe Wash Sensitive Moisture 591ml",
+    "price": 146300.0,
+    "originalprice": 213900.0,
+    "discountpercentage": 32.0,
+    "detail": "591.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Baby Dove Hair to Toe Wash Rich Moisture 591ml",
+    "price": 127300.0,
+    "originalprice": 185900.0,
+    "discountpercentage": 32.0,
+    "detail": "591.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Baby Dove Hair to Toe Wash Rich Moisture 200ml",
+    "price": 51410.0,
+    "originalprice": 73900.0,
+    "discountpercentage": 30.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Baby Dove Rich Moisture Nourishing Baby Lotion 200ml",
+    "price": 57950.0,
+    "originalprice": 84900.0,
+    "discountpercentage": 32.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Baby Dove Hair to Toe Wash Rich Moisture 400ml",
+    "price": 83700.0,
+    "originalprice": 129900.0,
+    "discountpercentage": 36.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Baby Dove Hair to Toe Wash Rich Moisture 1L",
+    "price": 204250.0,
+    "originalprice": 298900.0,
+    "discountpercentage": 32.0,
+    "detail": "1.0l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 16,
+    "name": "Baby Dove Hair to Toe Wash Rich Moisture Refill 430ml",
+    "price": 65550.0,
+    "originalprice": 95900.0,
+    "discountpercentage": 32.0,
+    "detail": "430.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 17,
+    "name": "Baby Dove Hair to Toe Wash Sensitive Moisture 200ml",
+    "price": 60140.0,
+    "originalprice": 86900.0,
+    "discountpercentage": 31.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 18,
+    "name": "Baby Dove Hair to Toe Wash Sensitive Moisture 400ml",
+    "price": 95850.0,
+    "originalprice": 147900.0,
+    "discountpercentage": 35.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 19,
+    "name": "Baby Dove Hair to Toe Wash Sensitive Moisture 1L",
+    "price": 234650.0,
+    "originalprice": 342900.0,
+    "discountpercentage": 32.0,
+    "detail": "1.0l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 20,
+    "name": "Baby Dove Hair to Toe Wash Sensitive Moisture Refill 220ml",
+    "price": 45900.0,
+    "originalprice": 74900.0,
+    "discountpercentage": 39.0,
+    "detail": "220.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 21,
+    "name": "Bango Kecap Manis Hitam Gurih 40ml",
+    "price": 2000.0,
+    "originalprice": 2900.0,
+    "discountpercentage": 31.0,
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 22,
+    "name": "Vaseline Healthy Bright Gluta Serum Lotion Dewy Radiance 200ml",
+    "price": 52300.0,
+    "originalprice": 66700.0,
+    "discountpercentage": 22.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 23,
+    "name": "Vaseline Healthy Bright Gluta Serum Lotion Flawless Bright 200ml",
+    "price": 39000.0,
+    "originalprice": 66700.0,
+    "discountpercentage": 42.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 24,
+    "name": "Pepsodent Toothbrush Sikat Gigi Expert Clean 3Pc",
+    "price": 20800.0,
+    "originalprice": 33900.0,
+    "discountpercentage": 39.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 25,
+    "name": "Zwitsal Baby Protect & Care Kit",
+    "price": 63000.0,
+    "originalprice": 101900.0,
+    "discountpercentage": 38.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 26,
+    "name": "Pepsodent Mouthwash Siwak 300ml",
+    "price": 25400.0,
+    "originalprice": 40900.0,
+    "discountpercentage": 38.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 27,
+    "name": "Vaseline Repairing Hand Mask with Vaseline Jelly & Niacinamide",
+    "price": 32100.0,
+    "originalprice": 42100.0,
+    "discountpercentage": 24.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 28,
+    "name": "Axe Deodorant Bodyspray Apollo 135Ml",
+    "price": 37300.0,
+    "originalprice": 54900.0,
+    "discountpercentage": 32.0,
+    "detail": "135.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 29,
+    "name": "Axe Deo Body Spray Ice Chill 135ML",
+    "price": 39500.0,
+    "originalprice": 57900.0,
+    "discountpercentage": 32.0,
+    "detail": "135.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 30,
+    "name": "Royco Saus Tiram 275ml",
+    "price": 17900.0,
+    "originalprice": 25900.0,
+    "discountpercentage": 31.0,
+    "detail": "275.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 31,
+    "name": "Rinso Molto Perfume Essence Liquid 200Ml",
+    "price": 4400.0,
+    "originalprice": 5600.0,
+    "discountpercentage": 21.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 32,
+    "name": "Rinso Molto Rose Fresh Liquid 200Ml",
+    "price": 4400.0,
+    "originalprice": 5600.0,
+    "discountpercentage": 21.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 33,
+    "name": "CIF Cream Pembersih Serbaguna Lemon Botol 660g",
+    "price": 25000.0,
+    "originalprice": 34900.0,
+    "discountpercentage": 28.0,
+    "detail": "660.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 34,
+    "name": "CIF Cream Pembersih Serbaguna Original Botol 660g",
+    "price": 25000.0,
+    "originalprice": 34900.0,
+    "discountpercentage": 28.0,
+    "detail": "660.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 35,
+    "name": "Vaseline All Day Radiant Long Lasting Fragrance 180ML",
+    "price": 32100.0,
+    "originalprice": 40600.0,
+    "discountpercentage": 21.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 36,
+    "name": "Dove Shampo Perawatan Rambut Berkilau 135ml",
+    "price": 21400.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 26.0,
+    "detail": "135.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 37,
+    "name": "Love Beauty Planet Conditioner Vegan Biotin Strong & Radiant 400ml",
+    "price": 97200.0,
+    "originalprice": 100200.0,
+    "discountpercentage": 3.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 38,
+    "name": "Sunlight Sabun Cuci Piring Jeruk Nipis Refill 210Ml",
+    "price": 3200.0,
+    "originalprice": 5600.0,
+    "discountpercentage": 43.0,
+    "detail": "210.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 39,
+    "name": "Vixal Pembersih Kamar Mandi Kuat Harum 470Ml",
+    "price": 13800.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 34.0,
+    "detail": "470.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 40,
+    "name": "Vixal Pembersih Kamar Mandi Ekstra Kuat 470Ml",
+    "price": 13800.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 34.0,
+    "detail": "470.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 41,
+    "name": "Zwitsal Baby Face & Body Care Cream 50g",
+    "price": 17100.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 39.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 42,
+    "name": "Tresemme Hair Fall Control Shampoo 670ml",
+    "price": 92800.0,
+    "originalprice": 108700.0,
+    "discountpercentage": 15.0,
+    "detail": "670.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 43,
+    "name": "Rinso Molto Detergen Bubuk Japanese Peach 1.2kg",
+    "price": 28100.0,
+    "originalprice": 49900.0,
+    "discountpercentage": 44.0,
+    "detail": "1.2kg",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 44,
+    "name": "Rinso Molto Deterjen Bubuk Perfume Essence 770G",
+    "price": 24500.0,
+    "originalprice": 32900.0,
+    "discountpercentage": 26.0,
+    "detail": "770.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 45,
+    "name": "Sunlight Sabun Cuci Piring Habbatussauda Refill 210Ml",
+    "price": 4400.0,
+    "originalprice": 6900.0,
+    "discountpercentage": 36.0,
+    "detail": "210.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 46,
+    "name": "Pepsodent Pasta Gigi Complete 8 Plus Whitening 75g",
+    "price": 9000.0,
+    "originalprice": 14900.0,
+    "discountpercentage": 40.0,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 47,
+    "name": "Ponds Age Miracle Double Action Serum Anti Aging 15ml",
+    "price": 94100.0,
+    "originalprice": 100000.0,
+    "discountpercentage": 6.0,
+    "detail": "15.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 48,
+    "name": "Ponds Age Miracle Serum Sheet Mask Anti Aging 25g",
+    "price": 31400.0,
+    "originalprice": 33300.0,
+    "discountpercentage": 6.0,
+    "detail": "25.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 49,
+    "name": "Dove Shampo Perawatan Rambut Rusak Sampo 135ml",
+    "price": 21400.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 26.0,
+    "detail": "135.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 50,
+    "name": "Dove Shampo Perawatan Rambut Rontok Sampo 135ml",
+    "price": 21400.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 26.0,
+    "detail": "135.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 51,
+    "name": "Dove Shampo Perawatan Rambut Rusak Sampo 290ml",
+    "price": 41200.0,
+    "originalprice": 58400.0,
+    "discountpercentage": 29.0,
+    "detail": "290.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 52,
+    "name": "Dove Shampo Perawatan Rambut Berkilau 290ml",
+    "price": 41200.0,
+    "originalprice": 58400.0,
+    "discountpercentage": 29.0,
+    "detail": "290.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 53,
+    "name": "Pepsodent Action 123 Siwak 110G",
+    "price": 11200.0,
+    "originalprice": 17900.0,
+    "discountpercentage": 37.0,
+    "detail": "110.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 54,
+    "name": "Pepsodent Sikat Gigi Siwak 1pc",
+    "price": 11700.0,
+    "originalprice": 18900.0,
+    "discountpercentage": 38.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  },
+  {
+    "id": 55,
+    "name": "Rinso Matic Professional Deterjen Laundry Kiloan Cair 1.65 L",
+    "price": 23700.0,
+    "originalprice": 29600.0,
+    "discountpercentage": 20.0,
+    "detail": "1.65l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:41 +0000"
+  }
+]

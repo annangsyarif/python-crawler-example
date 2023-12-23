@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Zwitsal Baby Bath Hair & Body Antibac 300Ml",
+    "price": 47900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:04 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Rexona Men Antibacterial Defense Roll On 45Ml",
+    "price": 23300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "45.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:04 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Bango Bumbu Mie Aceh 25Gr",
+    "price": 9900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "25.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:04 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Bango Bumbu Nasi Kuning Manado 35Gr",
+    "price": 9900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "35.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:04 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Bango Bumbu Rawon Khas Malang 35Gr",
+    "price": 9900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "35.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:04 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Jawara Saus Hot Pouch 250Ml",
+    "price": 14400.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 31.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:04 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Sahaja Pelembut Bunga Yasmin 720Ml",
+    "price": 24900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "720.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:24:04 +0000"
+  }
+]

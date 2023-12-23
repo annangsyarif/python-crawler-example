@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "name": "Zwitsal Kids 2 In 1 Sabun Mandi Cair Anak Natural And Nourish 280Ml",
+    "price": 26400.0,
+    "originalprice": 42900.0,
+    "discountpercentage": 38.0,
+    "detail": "280.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Zwitsal Baby Bottle Cleaner 425Ml",
+    "price": 19500.0,
+    "originalprice": 31900.0,
+    "discountpercentage": 39.0,
+    "detail": "425.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Vaseline Hand Body Lotion Body Serum Vitamin Kulit Soft Glow 180Ml",
+    "price": 32100.0,
+    "originalprice": 40600.0,
+    "discountpercentage": 21.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Lux Botanicals Bodywash Bird Of Paradise Refill 400Ml",
+    "price": 24900.0,
+    "originalprice": 32800.0,
+    "discountpercentage": 24.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Lux Botanicals Bodywash Magical Orchid Refill 850Ml",
+    "price": 43900.0,
+    "originalprice": 55000.0,
+    "discountpercentage": 20.0,
+    "detail": "850.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Buavita Mini Frozen Juice Jambu 125Ml",
+    "price": 4500.0,
+    "originalprice": 5900.0,
+    "discountpercentage": 24.0,
+    "detail": "125.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 7,
+    "name": "St Ives Radiant Skin Pink Lemon & Mandarin Orange Scrub",
+    "price": 51475.0,
+    "originalprice": 101900.0,
+    "discountpercentage": 49.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 8,
+    "name": "St Ives Blms Care Face Cleanser 200Ml",
+    "price": 98400.0,
+    "originalprice": 142900.0,
+    "discountpercentage": 31.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Ponds Age Miracle Sabun Cuci Muka Youthful Glow 100G - Sabun Antiaging",
+    "price": 66600.0,
+    "originalprice": 74100.0,
+    "discountpercentage": 10.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Ponds Men Bright Boost Moisturizer Krim Wajah Pria 20Ml Perawatan Pria",
+    "price": 35200.0,
+    "originalprice": 39800.0,
+    "discountpercentage": 12.0,
+    "detail": "20.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Clear Shampoo Anti Bacterial Fresh Cool Lemon 160Ml",
+    "price": 31500.0,
+    "originalprice": 33800.0,
+    "discountpercentage": 7.0,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Rinso Molto Detergent Cair Rose Fresh 1.65L - Deterjen Pewangi",
+    "price": 44000.0,
+    "originalprice": 56900.0,
+    "discountpercentage": 23.0,
+    "detail": "1.65l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Sunlight Sabun Cuci Piring Habbatussauda 90Ml",
+    "price": 1800.0,
+    "originalprice": 2900.0,
+    "discountpercentage": 38.0,
+    "detail": "90.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Dove Body Wash Deeply Nourishing Refill 825ml",
+    "price": 38300.0,
+    "originalprice": 74200.0,
+    "discountpercentage": 48.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Ponds Bright Beauty Tone Up Milk Cream 20G",
+    "price": 32200.0,
+    "originalprice": 37600.0,
+    "discountpercentage": 14.0,
+    "detail": "20.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 16,
+    "name": "Lifebuoy Sabun Mandi Cair Yoghurt Care Refill 825Ml",
+    "price": 42300.0,
+    "originalprice": 72900.0,
+    "discountpercentage": 42.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 17,
+    "name": "Sunsilk Halus & Lembut Conditioner 70Ml",
+    "price": 15800.0,
+    "originalprice": 17900.0,
+    "discountpercentage": 12.0,
+    "detail": "70.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 18,
+    "name": "Jawara Saus Extra Hot Pouch 250Ml",
+    "price": 14400.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 31.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 19,
+    "name": "Lux Botanicals Bodywash Soft Rose Botol 100Ml",
+    "price": 18200.0,
+    "originalprice": 18600.0,
+    "discountpercentage": 2.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 20,
+    "name": "Lux Botanicals Sabun Batang Lily Fresh 75G",
+    "price": 4400.0,
+    "originalprice": 5600.0,
+    "discountpercentage": 21.0,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 21,
+    "name": "Lux Botanicals Sabun Batang Blue Peony 75G",
+    "price": 4400.0,
+    "originalprice": 5600.0,
+    "discountpercentage": 21.0,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 22,
+    "name": "Lux Botanicals Sabun Batang Soft Rose 75G",
+    "price": 4400.0,
+    "originalprice": 5600.0,
+    "discountpercentage": 21.0,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 23,
+    "name": "Lux Botanicals Sabun Batang Velvet Jasmine 75G",
+    "price": 4400.0,
+    "originalprice": 5600.0,
+    "discountpercentage": 21.0,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 24,
+    "name": "Dove 3 In 1 Super Shampoo Hair Serum 125Ml -Shampo Anti Ketombe&Rontok",
+    "price": 29700.0,
+    "originalprice": 52400.0,
+    "discountpercentage": 43.0,
+    "detail": "125.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 25,
+    "name": "Dove 3 in 1 Super Shampoo Serum 125ml",
+    "price": 20400.0,
+    "originalprice": 26200.0,
+    "discountpercentage": 22.0,
+    "detail": "125.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 26,
+    "name": "Pond'S Age Miracle Whip Cream 20G",
+    "price": 78800.0,
+    "originalprice": 114900.0,
+    "discountpercentage": 31.0,
+    "detail": "20.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 27,
+    "name": "Dove Body Wash Deeply Nourishing Pump 1000 Ml",
+    "price": 98200.0,
+    "originalprice": 124000.0,
+    "discountpercentage": 21.0,
+    "detail": "1000.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 28,
+    "name": "Molto Trika Pelicin Pakaian Pewangi Baju Japanese Peach 400Ml",
+    "price": 8700.0,
+    "originalprice": 12900.0,
+    "discountpercentage": 33.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 29,
+    "name": "Rinso Molto Deterjen Cair Perfume Essence 1.65L - Deterjen Parfum",
+    "price": 44000.0,
+    "originalprice": 56900.0,
+    "discountpercentage": 23.0,
+    "detail": "1.65l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 30,
+    "name": "Clear Men 3-In-1 Shampo Active Clean Bottle 160Ml",
+    "price": 31500.0,
+    "originalprice": 38800.0,
+    "discountpercentage": 19.0,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 31,
+    "name": "Pepsodent Pencegah Gigi Berlubang Pasta Gigi 75G",
+    "price": 4900.0,
+    "originalprice": 7900.0,
+    "discountpercentage": 38.0,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 32,
+    "name": "Zwitsal Kids Sabun Mandi Anak Clean & Fresh 250Ml - Bubble Bath Anak",
+    "price": 19100.0,
+    "originalprice": 30900.0,
+    "discountpercentage": 38.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 33,
+    "name": "Lifebuoy Sabun Mandi Cair Yoghurt Care Refill 450Ml",
+    "price": 23800.0,
+    "originalprice": 34400.0,
+    "discountpercentage": 31.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 34,
+    "name": "Lifebuoy Sabun Mandi Cair Yoghurt Care Pump 500Ml",
+    "price": 64900.0,
+    "originalprice": 104900.0,
+    "discountpercentage": 38.0,
+    "detail": "500.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 35,
+    "name": "Ponds Juice Collection Sheet Mask Watermelon Extract 20G",
+    "price": 22600.0,
+    "originalprice": 26300.0,
+    "discountpercentage": 14.0,
+    "detail": "20.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 36,
+    "name": "Ponds Juice Collection Cleanser Watermelon Extract 90G",
+    "price": 33900.0,
+    "originalprice": 49900.0,
+    "discountpercentage": 32.0,
+    "detail": "90.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 37,
+    "name": "PONDS AGE MIRACLE ANTI AGING DAY CREAM WHIP MOISTURIZER 50G",
+    "price": 186900.0,
+    "originalprice": 272900.0,
+    "discountpercentage": 32.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 38,
+    "name": "Rinso Molto Detergen Bubuk Japanese Peach 770G",
+    "price": 17600.0,
+    "originalprice": 32900.0,
+    "discountpercentage": 47.0,
+    "detail": "770.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 39,
+    "name": "Rinso Detergen Bubuk Anti Noda 770G",
+    "price": 24500.0,
+    "originalprice": 32900.0,
+    "discountpercentage": 26.0,
+    "detail": "770.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 40,
+    "name": "Zwitsal Eau De Toilette 100Ml - Parfum Eau De Toilette",
+    "price": 32000.0,
+    "originalprice": 39300.0,
+    "discountpercentage": 19.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 41,
+    "name": "Vaseline Hypoallergenic Repairing Jelly Baby 50Ml",
+    "price": 31100.0,
+    "originalprice": 38900.0,
+    "discountpercentage": 20.0,
+    "detail": "50.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 42,
+    "name": "Vaseline Multi Purpose Repairing Jelly Aloe 50Ml",
+    "price": 27700.0,
+    "originalprice": 34700.0,
+    "discountpercentage": 20.0,
+    "detail": "50.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  },
+  {
+    "id": 43,
+    "name": "Molto Pure Pewangi Pakaian Bayi, Pelembut Baju Bayi Konsentrat 1.6L",
+    "price": 41000.0,
+    "originalprice": 81900.0,
+    "discountpercentage": 50.0,
+    "detail": "1.6l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:19 +0000"
+  }
+]

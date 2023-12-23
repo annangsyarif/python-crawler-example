@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "name": "Dove Shampoo Habatus Sauda 290ml",
+    "price": 49300.0,
+    "originalprice": 62900.0,
+    "discountpercentage": 22.0,
+    "detail": "290.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Royco Bumbu Siap Pakai Ayam Goreng Belacan 25G Carton",
+    "price": 3900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "25.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Royco Sup Krim Ayam 58G Carton",
+    "price": 13900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "58.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Bango Bumbu Nasi Goreng Kambing 40Gr Carton",
+    "price": 9900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "40.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Bango Bumbu Opor Ayam Cepu 35Gr Carton",
+    "price": 9900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "35.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Ponds Men Acne Solution Acne Gel 20G Carton",
+    "price": 29100.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Lifebuoy Sabun Batang Kasturi Musk 75g Carton",
+    "price": 6900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Lifebuoy Sabun Mandi Cair Kasturi Musk 450Ml Carton",
+    "price": 49900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Paket Kebersihan Rumah Unilever 2",
+    "price": 99700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Paket Kebersihan Rumah Unilever 1",
+    "price": 128500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Paket Dapur Unilever 2",
+    "price": 127300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Paket Dapur Unilever 1",
+    "price": 181200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Lifebuoy Sabun Mandi Cair Shiso & Mineral Clay 450Ml",
+    "price": 23800.0,
+    "originalprice": 40900.0,
+    "discountpercentage": 42.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Close Up Pasta Gigi Gel Green Gaga 75g",
+    "price": 7000.0,
+    "originalprice": 8100.0,
+    "discountpercentage": 14.0,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Lux Handwash Gardenia & Honey Refill 220ml",
+    "price": 15300.0,
+    "originalprice": 17800.0,
+    "discountpercentage": 14.0,
+    "detail": "220.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 16,
+    "name": "Lux Handwash Gardenia & Honey Pump 400ml",
+    "price": 38600.0,
+    "originalprice": 41100.0,
+    "discountpercentage": 6.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 17,
+    "name": "Paket Higienis Keluarga Pintar 2",
+    "price": 136600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 18,
+    "name": "Paket Higienis Keluarga Pintar 1",
+    "price": 123600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 19,
+    "name": "Love Beauty And Planet Hand Cream Luxurious Hydration 29ml",
+    "price": 43600.0,
+    "originalprice": 50500.0,
+    "discountpercentage": 14.0,
+    "detail": "29.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 20,
+    "name": "Love Beauty And Planet Hand Cream Delicious Glow 29ml",
+    "price": 43600.0,
+    "originalprice": 50500.0,
+    "discountpercentage": 14.0,
+    "detail": "29.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 21,
+    "name": "Pepsodent Pasta Gigi Active White 100G",
+    "price": 42900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 22,
+    "name": "Citra Scrub Natural Glow 200Ml",
+    "price": 16000.0,
+    "originalprice": 19300.0,
+    "discountpercentage": 17.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 23,
+    "name": "Simple Kind To Skin Micellar Cleansing Wipes 25s",
+    "price": 64900.0,
+    "originalprice": 94900.0,
+    "discountpercentage": 32.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 24,
+    "name": "Simple Kind To Skin Cleansing Facial Wipes 7s",
+    "price": 18500.0,
+    "originalprice": 26900.0,
+    "discountpercentage": 31.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 25,
+    "name": "Ponds Age Miracle Eye Serum Mask 4gr",
+    "price": 27700.0,
+    "originalprice": 29400.0,
+    "discountpercentage": 6.0,
+    "detail": "4.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  },
+  {
+    "id": 26,
+    "name": "Citra Marine Collagen Body Wash 400ml",
+    "price": 40800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:08 +0000"
+  }
+]

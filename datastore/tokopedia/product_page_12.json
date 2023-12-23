@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Love Beauty & Planet Rice Oil & Angelica Body Serum Niacinamide 185ml",
+    "price": 86200.0,
+    "originalprice": 124900.0,
+    "discountpercentage": 31.0,
+    "detail": "185.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:26 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Lifebuoy Sabun Mandi Cair Shiso & Mineral Clay 250Ml",
+    "price": 17600.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 39.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:26 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Axe Parfum Saku Black 15ml",
+    "price": 14400.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 31.0,
+    "detail": "15.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:26 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Axe Parfum Saku Dark Temptation 15ml",
+    "price": 14400.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 31.0,
+    "detail": "15.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:26 +0000"
+  },
+  {
+    "id": 5,
+    "name": "ZWITSAL HAIR & BODY ANTIBACTERIAL 200ML",
+    "price": 20300.0,
+    "originalprice": 32900.0,
+    "discountpercentage": 38.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:26 +0000"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Royco Bumbu Kaldu Jamur 40G",
+    "price": 4800.0,
+    "originalprice": 6900.0,
+    "discountpercentage": 30.0,
+    "detail": "40.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:34 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Zwitsal Kids Bubble Bath Blue Clean & Fresh 280Ml",
+    "price": 25000.0,
+    "originalprice": 40900.0,
+    "discountpercentage": 39.0,
+    "detail": "280.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:34 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Zwitsal Kids Baby Soft And Moisturizing Pink 280Ml",
+    "price": 25000.0,
+    "originalprice": 40900.0,
+    "discountpercentage": 39.0,
+    "detail": "280.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:34 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Lux Botanicals Sabun Mandi Cair Pencerah Sakura Bloom 825ml-Body Wash",
+    "price": 43900.0,
+    "originalprice": 55000.0,
+    "discountpercentage": 20.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:34 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Buavita Jus Jambu Guava Juice Buah Asli 500ml",
+    "price": 14300.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 32.0,
+    "detail": "500.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:34 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Glow & Lovely Multivitamin Serum Sheet Mask Masker Pencerah Wajah 20G",
+    "price": 9600.0,
+    "originalprice": 13900.0,
+    "discountpercentage": 31.0,
+    "detail": "20.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:34 +0000"
+  }
+]

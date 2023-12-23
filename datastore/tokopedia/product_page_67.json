@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Sunsilk Hijab Conditioner Refresh 3in1 Smoothies 170Ml",
+    "price": 30700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:39 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Closeup White Attraction Minty Matcha 2.5x Whitening Power Pasta Gigi",
+    "price": 19700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "2.5x",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:39 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Citra Collagen Hydra UV Gel 180ML",
+    "price": 31600.0,
+    "originalprice": 35800.0,
+    "discountpercentage": 12.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:39 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Citra Hand Body Lotion Natural Glowing Bright UV 180ML",
+    "price": 31600.0,
+    "originalprice": 35800.0,
+    "discountpercentage": 12.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:39 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Korea Glow Sabung Batang Fresh Glow 85G 1 Karton",
+    "price": 283200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "85.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:39 +0000"
+  }
+]

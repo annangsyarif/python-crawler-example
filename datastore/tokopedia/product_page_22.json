@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1,
+    "name": "Vaseline Lotion Healthy Bright Perfect 10 400ml",
+    "price": 68100.0,
+    "originalprice": 86700.0,
+    "discountpercentage": 21.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Vaseline Lotion Healthy Bright Night Repair 200Ml",
+    "price": 39500.0,
+    "originalprice": 50200.0,
+    "discountpercentage": 21.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Vaseline Lotion Healthy Bright Insta 190Ml",
+    "price": 39500.0,
+    "originalprice": 50200.0,
+    "discountpercentage": 21.0,
+    "detail": "190.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Vaseline Lotion Intensive Care Aloe Soothe 200Ml",
+    "price": 34800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 5,
+    "name": "TRESEMME SHAMPOO SCALP CARE 170ML",
+    "price": 34500.0,
+    "originalprice": 40400.0,
+    "discountpercentage": 15.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 6,
+    "name": "TRESEMME SHAMPOO KERATIN SMOOTH 170ML",
+    "price": 29000.0,
+    "originalprice": 40400.0,
+    "discountpercentage": 28.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 7,
+    "name": "TRESEMME SHAMPOO KERATIN SMOOTH 340ML",
+    "price": 64500.0,
+    "originalprice": 75600.0,
+    "discountpercentage": 15.0,
+    "detail": "340.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Tresemme Shampoo Keratin Smooth 670Ml -Keratine Smooth, Rambut Lembut",
+    "price": 92800.0,
+    "originalprice": 108700.0,
+    "discountpercentage": 15.0,
+    "detail": "670.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 9,
+    "name": "TRESEMME SHAMPOO ANTI HAIR FALL 170ML",
+    "price": 34500.0,
+    "originalprice": 40400.0,
+    "discountpercentage": 15.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Tresemme Hair Fall Control Shampoo Perawatan Rambut Rontok 340Ml",
+    "price": 64500.0,
+    "originalprice": 75600.0,
+    "discountpercentage": 15.0,
+    "detail": "340.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Molto Pewangi Pakaian Pink 780ml",
+    "price": 14500.0,
+    "originalprice": 21900.0,
+    "discountpercentage": 34.0,
+    "detail": "780.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Molto Pewangi Pakaian Flower Shower 1700Ml - Softener Pelembut Baju",
+    "price": 23400.0,
+    "originalprice": 41900.0,
+    "discountpercentage": 44.0,
+    "detail": "1700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Molto Pewangi Pakaian Floral Bliss 1700Ml - Softener Pelembut Baju",
+    "price": 28500.0,
+    "originalprice": 41900.0,
+    "discountpercentage": 32.0,
+    "detail": "1700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Rexona Women Deodorant Anti-Perspirant Roll On Shower Clean 45Ml",
+    "price": 19300.0,
+    "originalprice": 22400.0,
+    "discountpercentage": 14.0,
+    "detail": "45.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Rexona Women Deodorant Anti-Perspirant Roll On Powder Dry 45Ml",
+    "price": 19300.0,
+    "originalprice": 22400.0,
+    "discountpercentage": 14.0,
+    "detail": "45.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 16,
+    "name": "Rexona Women Deodorant Anti-Perspirant Roll On Passion 45Ml",
+    "price": 19300.0,
+    "originalprice": 22400.0,
+    "discountpercentage": 14.0,
+    "detail": "45.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 17,
+    "name": "Rexona Deodorant Deo Roll on Advanced Brightening 45ml",
+    "price": 23600.0,
+    "originalprice": 25600.0,
+    "discountpercentage": 8.0,
+    "detail": "45.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 18,
+    "name": "Ponds Age Miracle Youthful Glow Retinol Day Cream Krim Anti Aging 10G",
+    "price": 37500.0,
+    "originalprice": 43800.0,
+    "discountpercentage": 14.0,
+    "detail": "10.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 19,
+    "name": "Ponds Age Miracle Youthful Glow Retinol Eye Cream 15Ml",
+    "price": 204600.0,
+    "originalprice": 238900.0,
+    "discountpercentage": 14.0,
+    "detail": "15.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 20,
+    "name": "Zwitsal Baby Bath Classic Refill Pouch 450Ml",
+    "price": 38300.0,
+    "originalprice": 61900.0,
+    "discountpercentage": 38.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 21,
+    "name": "Zwitsal Baby Bath Natural Minyak Telon 300Ml",
+    "price": 33400.0,
+    "originalprice": 53900.0,
+    "discountpercentage": 38.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 22,
+    "name": "Zwitsal Baby Guard Lotion Tube 100Ml",
+    "price": 27500.0,
+    "originalprice": 44900.0,
+    "discountpercentage": 39.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 23,
+    "name": "Zwitsal Cologne Natural Soft Touch 100Ml - Minyak Wangi Baby Cologne",
+    "price": 22000.0,
+    "originalprice": 35900.0,
+    "discountpercentage": 39.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 24,
+    "name": "Zwitsal Baby Powder Natural Aloe Vera 300G",
+    "price": 23200.0,
+    "originalprice": 37900.0,
+    "discountpercentage": 39.0,
+    "detail": "300.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 25,
+    "name": "ZWITSAL MINYAK TELON BAYI BABY OIL NATURAL 100ML",
+    "price": 35700.0,
+    "originalprice": 57900.0,
+    "discountpercentage": 38.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 26,
+    "name": "Zwitsal hampoo Aloe Vera Kemiri Seledri 300Ml - Baby Shampo",
+    "price": 31000.0,
+    "originalprice": 49900.0,
+    "discountpercentage": 38.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 27,
+    "name": "Zwitsal Baby Hair Lotion Aloe Vera Kemiri Seledri 200Ml-Pelebat Rambut",
+    "price": 39000.0,
+    "originalprice": 50300.0,
+    "discountpercentage": 22.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 28,
+    "name": "Royco Bumbu Kaldu Sapi Penyedap Rasa Penyedap Makanan 100G",
+    "price": 5000.0,
+    "originalprice": 7900.0,
+    "discountpercentage": 37.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 29,
+    "name": "Royco Bumbu Kaldu Ayam Penyedap Rasa Penyedap Makanan Beryodium 94G",
+    "price": 5000.0,
+    "originalprice": 7900.0,
+    "discountpercentage": 37.0,
+    "detail": "94.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 30,
+    "name": "ROYCO BUMBU KALDU AYAM PENYEDAP RASA 230G - PENYEDAP MAKANAN",
+    "price": 7100.0,
+    "originalprice": 11400.0,
+    "discountpercentage": 38.0,
+    "detail": "230.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 31,
+    "name": "ROYCO SUP KRIM JAGUNG 50G",
+    "price": 9200.0,
+    "originalprice": 10700.0,
+    "discountpercentage": 14.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 32,
+    "name": "Vaseline Men Face Wash Oil Control 100G",
+    "price": 38100.0,
+    "originalprice": 44400.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 33,
+    "name": "Vaseline Men Face Wash Healthy Bright Sabun Cuci Muka Pria 100G",
+    "price": 38100.0,
+    "originalprice": 44400.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 34,
+    "name": "Vaseline Men Face Wash Anti Acne 100 G",
+    "price": 38100.0,
+    "originalprice": 44400.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 35,
+    "name": "VASELINE LOTION HEALTHY BRIGHT UV LIGHTENING 200ML",
+    "price": 27400.0,
+    "originalprice": 34800.0,
+    "discountpercentage": 21.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 36,
+    "name": "Vaseline Healthy Bright Hand Body Lotion Uv Lightening 400Ml",
+    "price": 42500.0,
+    "originalprice": 66900.0,
+    "discountpercentage": 36.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 37,
+    "name": "Molto Eau De Parfum Pewangi Pelembut Baju Purple Elegant 650Ml",
+    "price": 27600.0,
+    "originalprice": 44100.0,
+    "discountpercentage": 37.0,
+    "detail": "650.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 38,
+    "name": "MOLTO TRIKA PELICIN PAKAIAN BLUE 400ML",
+    "price": 8700.0,
+    "originalprice": 10100.0,
+    "discountpercentage": 14.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 39,
+    "name": "Lux Sabun Cair Magical Orchid Refill 400ML",
+    "price": 24900.0,
+    "originalprice": 32800.0,
+    "discountpercentage": 24.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 40,
+    "name": "LUX BOTANICALS SABUN MANDI CAIR SOFT ROSE 580ML -SABUN KECANTIKAN",
+    "price": 75300.0,
+    "originalprice": 107900.0,
+    "discountpercentage": 30.0,
+    "detail": "580.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 41,
+    "name": "Close Up Pasta Gigi Icy White 160G",
+    "price": 26700.0,
+    "originalprice": 28600.0,
+    "discountpercentage": 7.0,
+    "detail": "160.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 42,
+    "name": "Closeup Toothpaste Pasta Gigi Mentol Fresh 160G",
+    "price": 18900.0,
+    "originalprice": 21300.0,
+    "discountpercentage": 11.0,
+    "detail": "160.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 43,
+    "name": "CLOSEUP PASTA GIGI DEEP ACTION - MENTHOL FRESH 110G",
+    "price": 14300.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 32.0,
+    "detail": "110.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 44,
+    "name": "Ponds Age Miracle Youthful Glow Retinol Night Cream Anti Aging 10G",
+    "price": 41200.0,
+    "originalprice": 48100.0,
+    "discountpercentage": 14.0,
+    "detail": "10.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 45,
+    "name": "Pond's Bright Miracle Ultimate Oil Control Facial Foam 100G",
+    "price": 35400.0,
+    "originalprice": 41300.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 46,
+    "name": "Ponds Bright Miracle Ultimate Acne Control Facial Foam 100g",
+    "price": 38000.0,
+    "originalprice": 42600.0,
+    "discountpercentage": 11.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 47,
+    "name": "Ponds Men Acne Clear Oil Control Face Wash Pembersih Wajah Pria 100G",
+    "price": 39800.0,
+    "originalprice": 46400.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 48,
+    "name": "Ponds Bright Miracle Ultimate Clarity Facial Foam 100g",
+    "price": 33800.0,
+    "originalprice": 38700.0,
+    "discountpercentage": 13.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 49,
+    "name": "POND'S MEN POLLUTION OUT FACE WASH 100G",
+    "price": 47300.0,
+    "originalprice": 68900.0,
+    "discountpercentage": 31.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 50,
+    "name": "Ponds Men Facial Wash Bright Boost 100G - Pencuci Muka Untuk Pria",
+    "price": 39800.0,
+    "originalprice": 46400.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 51,
+    "name": "POND'S MEN ENERGY CHARGE FACE WASH 100G",
+    "price": 47300.0,
+    "originalprice": 68900.0,
+    "discountpercentage": 31.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 52,
+    "name": "Rinso Matic Deterjen Cair Mesin Cuci Bukaan Depan 1.45L-Deterjen matic",
+    "price": 55000.0,
+    "originalprice": 92300.0,
+    "discountpercentage": 40.0,
+    "detail": "1.45l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 53,
+    "name": "Rinso Matic Deterjen Cair Mesin Cuci Bukaan Atas 1.45L- Deterjen matic",
+    "price": 45900.0,
+    "originalprice": 77900.0,
+    "discountpercentage": 41.0,
+    "detail": "1.45l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 54,
+    "name": "RINSO MOLTO DETERJEN CAIR ROSE FRESH 700ML - LIQUID DETERGENT PEWANGI",
+    "price": 20900.0,
+    "originalprice": 32300.0,
+    "discountpercentage": 35.0,
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 55,
+    "name": "Pepsodent Sensitive Mineral Expert Pasta Gigi Whitening 100G",
+    "price": 32200.0,
+    "originalprice": 51900.0,
+    "discountpercentage": 38.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 56,
+    "name": "Pepsodent Sensitive Mineral Expert Pasta Gigi Fresh 100G",
+    "price": 32200.0,
+    "originalprice": 51900.0,
+    "discountpercentage": 38.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 57,
+    "name": "Pepsodent Complete 8 Pasta Gigi Center Fresh 160G",
+    "price": 21400.0,
+    "originalprice": 33900.0,
+    "discountpercentage": 37.0,
+    "detail": "160.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 58,
+    "name": "PEPSODENT PLUS PASTA GIGI WHITENING TOOTHPASTE 190G",
+    "price": 21400.0,
+    "originalprice": 33900.0,
+    "discountpercentage": 37.0,
+    "detail": "190.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 59,
+    "name": "Dove Shampoo Total Hairfall Treatment 680Ml-Shampoo Anti Rambut Rontok",
+    "price": 73900.0,
+    "originalprice": 100900.0,
+    "discountpercentage": 27.0,
+    "detail": "680.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 60,
+    "name": "Dove Nutritive Solution Shampoo Total Damage Treatment 680Ml",
+    "price": 73900.0,
+    "originalprice": 100900.0,
+    "discountpercentage": 27.0,
+    "detail": "680.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 61,
+    "name": "Dove Conditioner Total Damage Treatment 160Ml",
+    "price": 29600.0,
+    "originalprice": 37600.0,
+    "discountpercentage": 21.0,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 62,
+    "name": "Dove Deodorant Roll On Powder Soft 40Ml",
+    "price": 21900.0,
+    "originalprice": 27100.0,
+    "discountpercentage": 19.0,
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 63,
+    "name": "Dove Deodorant Roll On Silk Dry 40Ml",
+    "price": 21900.0,
+    "originalprice": 27100.0,
+    "discountpercentage": 19.0,
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 64,
+    "name": "Dove Deodorant Roll On Antiperspirant Women Nourish & Smooth 40Ml",
+    "price": 21900.0,
+    "originalprice": 27100.0,
+    "discountpercentage": 19.0,
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 65,
+    "name": "DOVE SABUN MANDI CAIR DEEPLY NOURISHING 550ML -BODY FOAM, BEAUTY SOAP",
+    "price": 82000.0,
+    "originalprice": 94200.0,
+    "discountpercentage": 13.0,
+    "detail": "550.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 66,
+    "name": "DOVE GOFRESH SABUN MANDI CAIR REVIVE 400ML -BODY FOAM, BEAUTY SOAP",
+    "price": 28900.0,
+    "originalprice": 44200.0,
+    "discountpercentage": 35.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 67,
+    "name": "Dove Body Wash Sabun Mandi Cair Pump Revive 550Ml",
+    "price": 82000.0,
+    "originalprice": 94200.0,
+    "discountpercentage": 13.0,
+    "detail": "550.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 68,
+    "name": "DOVE SABUN MANDI CAIR DEEPLY NOURISHING 400ML -BODY FOAM,BEAUTY SOAP",
+    "price": 15000.0,
+    "originalprice": 52400.0,
+    "discountpercentage": 71.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 69,
+    "name": "BANGO KECAP MANIS 275ML",
+    "price": 21200.0,
+    "originalprice": 23700.0,
+    "discountpercentage": 11.0,
+    "detail": "275.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 70,
+    "name": "Superpell Sabun Pel Pembersih Lantai Fresh Apple 1600Ml",
+    "price": 31900.0,
+    "originalprice": 37100.0,
+    "discountpercentage": 14.0,
+    "detail": "1600.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 71,
+    "name": "Sunsilk Shampoo Soft And Smooth 650Ml - Shampo Rambut Halus",
+    "price": 75000.0,
+    "originalprice": 91100.0,
+    "discountpercentage": 18.0,
+    "detail": "650.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 72,
+    "name": "SUNSILK SHAMPOO SOFT & SMOOTH 170ML",
+    "price": 25400.0,
+    "originalprice": 36900.0,
+    "discountpercentage": 31.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 73,
+    "name": "Sunsilk Shampoo Soft Smooth 340Ml",
+    "price": 45600.0,
+    "originalprice": 50700.0,
+    "discountpercentage": 10.0,
+    "detail": "340.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 74,
+    "name": "Sunsilk Shampoo Black Shine Perawatan Rambut Hitam Berkilau 650ml",
+    "price": 75000.0,
+    "originalprice": 91100.0,
+    "discountpercentage": 18.0,
+    "detail": "650.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 75,
+    "name": "Sunsilk Shampoo Black Shine 170Ml",
+    "price": 25400.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 12.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  },
+  {
+    "id": 76,
+    "name": "Sunsilk Shampoo Black Shine 320Ml",
+    "price": 45600.0,
+    "originalprice": 50700.0,
+    "discountpercentage": 10.0,
+    "detail": "320.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:16 +0000"
+  }
+]

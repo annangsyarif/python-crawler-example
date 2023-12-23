@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "name": "Rinso Molto Deterjen Cair Royal Gold 700 Ml",
+    "price": "20900",
+    "originalprice": "32300",
+    "discountpercentage": "35",
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 2,
+    "name": "Rinso Molto Deterjen Bubuk Royal Gold 770G",
+    "price": "24500",
+    "originalprice": "32900",
+    "discountpercentage": "26",
+    "detail": "770.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 3,
+    "name": "RINSO MOLTO DETERGEN BUBUK ROSE FRESH 1.8KG - DETERGEN PEWANGI",
+    "price": "49000",
+    "originalprice": "72000",
+    "discountpercentage": "32",
+    "detail": "1.8kg",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 4,
+    "name": "Zwitsal Baby Bath Hair And Body Natural Aloe Vera 450Ml - Sabun Bayi",
+    "price": "36600",
+    "originalprice": "55600",
+    "discountpercentage": "34",
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 5,
+    "name": "Sarimurni Teh Hitam Kantong Bundar 20 Teh Celup",
+    "price": "4900",
+    "originalprice": "7900",
+    "discountpercentage": "38",
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 6,
+    "name": "Sarimurni Teh Hitam 25",
+    "price": "6200",
+    "originalprice": "9900",
+    "discountpercentage": "37",
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 7,
+    "name": "Ponds Bright Miracle Ultimate Pore Clear Facial Scrub 100g",
+    "price": "38000",
+    "originalprice": "55900",
+    "discountpercentage": "32",
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 8,
+    "name": "VIXAL PEMBERSIH PORSELEN KAMAR MANDI KUAT HARUM 750ML",
+    "price": "13200",
+    "originalprice": "26900",
+    "discountpercentage": "51",
+    "detail": "750.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 9,
+    "name": "Rinso Anti Noda Deterjen Bubuk Classic Fresh 1.8Kg- Deterjen Anti Noda",
+    "price": "52800",
+    "originalprice": "72000",
+    "discountpercentage": "27",
+    "detail": "1.8kg",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 10,
+    "name": "Lux Botanicals Sabun Mandi Cair Sakurabloom 400Ml-Brigthening Bodywash",
+    "price": "24900",
+    "originalprice": "32800",
+    "discountpercentage": "24",
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 11,
+    "name": "Zwitsal Mini Travel Pack Baby Gifset - Baby Travel Pack",
+    "price": "26900",
+    "originalprice": "43900",
+    "discountpercentage": "39",
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 12,
+    "name": "Zwitsal Natural Basic Pack Baby Gifset - Baby Travel Pack",
+    "price": "64500",
+    "originalprice": "104900",
+    "discountpercentage": "39",
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 13,
+    "name": "Pond'S Magic Powder Bb 50 G",
+    "price": "32700",
+    "originalprice": "47900",
+    "discountpercentage": "32",
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 14,
+    "name": "Citra Powder Cream Moisturizer Krim Wajah Sakura Bright Uv 40G",
+    "price": "45700",
+    "originalprice": "51500",
+    "discountpercentage": "11",
+    "detail": "40.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 15,
+    "name": "Vlt Original Care (Stick) 4.8 g",
+    "price": "27455",
+    "originalprice": "40900",
+    "discountpercentage": "33",
+    "detail": "4.8g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 16,
+    "name": "Vaseline Lip Therapy Creme Brulee 7 g",
+    "price": "41325",
+    "originalprice": "48300",
+    "discountpercentage": "14",
+    "detail": "7.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 17,
+    "name": "POND'S MICELLAR WATER BRIGHTENING ROSE MAKEUP REMOVER PEMBERSIH 100ML",
+    "price": "23800",
+    "originalprice": "27800",
+    "discountpercentage": "14",
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 18,
+    "name": "Ponds Vitamin Micellar Water (Makeup Remover) Brightening Rose 235Ml",
+    "price": "52400",
+    "originalprice": "61100",
+    "discountpercentage": "14",
+    "detail": "235.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 19,
+    "name": "Ponds Vitamin Micellar Water (Makeup Remover) Hydrating Aloe 100Ml",
+    "price": "23800",
+    "originalprice": "27800",
+    "discountpercentage": "14",
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 20,
+    "name": "Rexona Women Dry Serum Fresh Sakura 50Ml - Cream Pencerah Ketiak",
+    "price": "24100",
+    "originalprice": "26700",
+    "discountpercentage": "10",
+    "detail": "50.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 21,
+    "name": "Ponds Bright Miracle Ultimate Clarity Niasorcinol Cream 40g",
+    "price": "54500",
+    "originalprice": "60600",
+    "discountpercentage": "10",
+    "detail": "40.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 22,
+    "name": "Ponds Bright Miracle Ultimate Clarity Niasorcinol Cream 20g",
+    "price": "28700",
+    "originalprice": "32600",
+    "discountpercentage": "12",
+    "detail": "20.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 23,
+    "name": "Clear Hijab Pure Shampo Anti-Ketombe & Anti-Rontok 160ML",
+    "price": "37100",
+    "originalprice": "45900",
+    "discountpercentage": "19",
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 24,
+    "name": "Citra Gel Multifungsi Aloe Bright Uv 180Ml - Soothing Gel Aloevera",
+    "price": "30300",
+    "originalprice": "34300",
+    "discountpercentage": "12",
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 25,
+    "name": "Superpell Pel Lantai Lemon Ginger 770Ml - Sabun Pel Lantai, Pel Harum",
+    "price": "14200",
+    "originalprice": "18700",
+    "discountpercentage": "24",
+    "detail": "770.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 26,
+    "name": "Superpell Pel Lantai Fresh Apple 770Ml - Pel Wangi, Sabun Pel Lantai",
+    "price": "14200",
+    "originalprice": "18900",
+    "discountpercentage": "25",
+    "detail": "770.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 27,
+    "name": "Vaseline Petroleum Jelly Original 50Ml - Repairing Jelly, Kulit Rusak",
+    "price": "27300",
+    "originalprice": "33800",
+    "discountpercentage": "19",
+    "detail": "50.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 28,
+    "name": "Wipol Karbol Cemara Botol 750ml",
+    "price": "30100",
+    "originalprice": "44900",
+    "discountpercentage": "33",
+    "detail": "750.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 29,
+    "name": "Zwitsal Baby Powder Natural Rich Honey 300G",
+    "price": "23200",
+    "originalprice": "37900",
+    "discountpercentage": "39",
+    "detail": "300.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 30,
+    "name": "Molto All-In-1 Pink Pewangi & Pelembut Konsentrat Pouch 650Ml",
+    "price": "25414",
+    "originalprice": "40900",
+    "discountpercentage": "38",
+    "detail": "650.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 31,
+    "name": "Dove Roll On Deodorant Go Fresh Cucumber & Green Tea 40Ml",
+    "price": "21600",
+    "originalprice": "27100",
+    "discountpercentage": "20",
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 32,
+    "name": "Dove Roll On Deodorant Go Fresh Pomegranate & Lemon Verbena 40Ml",
+    "price": "21600",
+    "originalprice": "27100",
+    "discountpercentage": "20",
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 33,
+    "name": "DOVE Deodorant Sensitive Roll On 40 ml",
+    "price": "21600",
+    "originalprice": "27100",
+    "discountpercentage": "20",
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 34,
+    "name": "ROYCO BUMBU KALDU SAPI PENYEDAP RASA 230G - PENYEDAP MAKANAN",
+    "price": "9800",
+    "originalprice": "11400",
+    "discountpercentage": "14",
+    "detail": "230.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 35,
+    "name": "Molto All-In-1 Blue Pewangi & Pelembut Konsentrat Pouch 650Ml",
+    "price": "27600",
+    "originalprice": "40900",
+    "discountpercentage": "33",
+    "detail": "650.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 36,
+    "name": "CLEAR Shampoo Ice Cool Menthol 160ml",
+    "price": "31500",
+    "originalprice": "45900",
+    "discountpercentage": "31",
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 37,
+    "name": "Buavita Jus Jambu Guava Juice Buah Asli 245ml",
+    "price": "8200",
+    "originalprice": "11900",
+    "discountpercentage": "31",
+    "detail": "245.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 38,
+    "name": "Buavita Jus Apel Apple Juice Buah Asli 245ml",
+    "price": "8200",
+    "originalprice": "11900",
+    "discountpercentage": "31",
+    "detail": "245.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 39,
+    "name": "Vaseline Healthy Bright Fresh & Cooling Uv Gel Lotion 200Ml",
+    "price": "27400",
+    "originalprice": "34800",
+    "discountpercentage": "21",
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 40,
+    "name": "Ponds Tone Up Milk Masker Sheet Mask Honey 25G",
+    "price": "22600",
+    "originalprice": "26300",
+    "discountpercentage": "14",
+    "detail": "25.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 41,
+    "name": "Zwitsal Baby Cologne Natural Fresh Floral 100Ml",
+    "price": "22000",
+    "originalprice": "35900",
+    "discountpercentage": "39",
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 42,
+    "name": "Citra Korean Pearls Mulberry Body Lotion Pearly Glow Uv 380Ml",
+    "price": "39500",
+    "originalprice": "44300",
+    "discountpercentage": "11",
+    "detail": "380.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 43,
+    "name": "Lifebuoy Sabun Cair Matcha Refill 450mL",
+    "price": "23800",
+    "originalprice": "40900",
+    "discountpercentage": "42",
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 44,
+    "name": "Lifebuoy Sabun Cair Matcha Botol 300mL",
+    "price": "45300",
+    "originalprice": "72900",
+    "discountpercentage": "38",
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 45,
+    "name": "Sunsilk Shampoo Thick & Long 340Ml",
+    "price": "45600",
+    "originalprice": "50700",
+    "discountpercentage": "10",
+    "detail": "340.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 46,
+    "name": "POND'S AGE MIRACLE SERUM WAJAH YOUTHFUL GLOW 30ML -ANTI WRINKLE SERUM",
+    "price": "237900",
+    "originalprice": "277800",
+    "discountpercentage": "14",
+    "detail": "30.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 47,
+    "name": "Rinso Deterjen Cair Anti Noda 700ml",
+    "price": "20900",
+    "originalprice": "32300",
+    "discountpercentage": "35",
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 48,
+    "name": "Citra Mangosteen Sunflower Oil Sun Protected Bright Spf 20 110Ml",
+    "price": "29600",
+    "originalprice": "33300",
+    "discountpercentage": "11",
+    "detail": "110.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  },
+  {
+    "id": 49,
+    "name": "Super Pell Pembersih Lantai Cherry Rose Pouch 770Ml",
+    "price": "14200",
+    "originalprice": "18900",
+    "discountpercentage": "25",
+    "detail": "770.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 18:31:50 +0700"
+  }
+]

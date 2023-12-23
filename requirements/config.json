@@ -1,0 +1,9 @@
+{
+    "postgres" : {
+        "host": "postgres",
+        "port": 5432,
+        "database": "crawling_database",
+        "user": "postgres",
+        "password": "admin"
+    }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Suave Essentials Energizing Conditioner Sun Rippened Strawberry 443 ml",
+    "price": 59400.0,
+    "originalprice": 86900.0,
+    "discountpercentage": 32.0,
+    "detail": "443.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:08 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Suave Essentials Nourishing Conditioner Tropical Coconut 443 ml",
+    "price": 59400.0,
+    "originalprice": 86900.0,
+    "discountpercentage": 32.0,
+    "detail": "443.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:08 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Rexona Men Motionsense Antiperspirant Active Protection Original 200ml",
+    "price": 48300.0,
+    "originalprice": 56100.0,
+    "discountpercentage": 14.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:08 +0000"
+  }
+]

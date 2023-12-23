@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Rinso Kapsul 3 in 1 Lavender Fresh 16 Kapsul",
+    "price": 36900.0,
+    "originalprice": 67900.0,
+    "discountpercentage": 46.0,
+    "detail": "1.0l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:12 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Rinso Kapsul 3 in 1 Sakura Blossom 16 Kapsul",
+    "price": 37500.0,
+    "originalprice": 67900.0,
+    "discountpercentage": 45.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:12 +0000"
+  }
+]

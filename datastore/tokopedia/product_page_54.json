@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Citra Night Collagen Glow Lotion 230Ml",
+    "price": 29600.0,
+    "originalprice": 33300.0,
+    "discountpercentage": 11.0,
+    "detail": "230.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:27 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Hampers Special Valentine Unilever 175K",
+    "price": 285100.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:27 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Hampers Special CNY Unilever 179K",
+    "price": 367900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:27 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Hellmanns Caesar Dressing 210ml",
+    "price": 42800.0,
+    "originalprice": 51900.0,
+    "discountpercentage": 18.0,
+    "detail": "210.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:27 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Dove Hyaluron Serum Conditioner Restoring & Nourishing 190ml",
+    "price": 72800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "190.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:27 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Dove Hyaluron Serum Conditioner Restoring & Nourishing 450ml",
+    "price": 93400.0,
+    "originalprice": 123400.0,
+    "discountpercentage": 24.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:27 +0000"
+  }
+]

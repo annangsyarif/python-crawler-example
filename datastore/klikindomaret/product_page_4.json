@@ -1,0 +1,542 @@
+[
+  {
+    "id": "20085286",
+    "name": "Wall's Ice Cream Cornetto Junior Black & White 80mL",
+    "price": 6000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "80.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20090355",
+    "name": "Lifebuoy Sabun Mandi Lemon Fresh 110G",
+    "price": 7700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "110.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20090067",
+    "name": "Sunlight Pencuci Piring Mint Anti Bau 650mL",
+    "price": 9900.0,
+    "originalprice": 14900.0,
+    "discountpercentage": 34.0,
+    "detail": "650.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20090066",
+    "name": "Wipol Karbol Sereh & Jeruk 750Ml",
+    "price": 21200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "750.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20089436",
+    "name": "Lifebuoy Sabun Mandi Lemon Fresh 4X60g",
+    "price": 14300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "60.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20088631",
+    "name": "Close Up Pasta Gigi White Attraction 100g",
+    "price": 24300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20088098",
+    "name": "Pepsodent Triple Clean Sikat Gigi Soft Multipack Isi 3",
+    "price": 12600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20087525",
+    "name": "Pepsodent Pasta Gigi White Prm Valuepack 2X190g",
+    "price": 26200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "190.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20087345",
+    "name": "Pond's Age Miracle Day Cream 20G",
+    "price": 78800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20087201",
+    "name": "Rexona Deo Roll On Men Motionsense Invisible+Antibacterial 45Ml",
+    "price": 26200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "45.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20087202",
+    "name": "Lifebuoy Sabun Mandi Cair Refill Lemon Fresh 825mL",
+    "price": 44900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "825.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20086406",
+    "name": "Citra Sakura Fair Uv Powder Cream 40G",
+    "price": 50500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "40.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20086172",
+    "name": "Sunlight Pencuci Piring Higienis Habbatussauda 650mL",
+    "price": 9900.0,
+    "originalprice": 14900.0,
+    "discountpercentage": 34.0,
+    "detail": "650.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20086026",
+    "name": "Glow & Lovely 2 In 1 Powder Cream 20G",
+    "price": 28300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20059265",
+    "name": "Wall's Ice Cream Magnum White Almond 80Ml",
+    "price": 18000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "80.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20085122",
+    "name": "Lux Sabun Mandi Batang White Velvet Jasmine 3X110g",
+    "price": 17500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "110.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20085121",
+    "name": "Lux Sabun Mandi Batang Pink Soft Rose 3X110g",
+    "price": 17500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "110.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20085113",
+    "name": "Rinso Deterjen Powder + Molto Purple 770g",
+    "price": 19500.0,
+    "originalprice": 27300.0,
+    "discountpercentage": 29.0,
+    "detail": "770.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20084469",
+    "name": "Royco Bumbu Kaldu Ayam 230G",
+    "price": 11500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "230.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20084470",
+    "name": "Royco Bumbu Kaldu Sapi 220G",
+    "price": 11500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "220.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20081452",
+    "name": "Lifebuoy Sabun Mandi Cair Refill Total10 825mL",
+    "price": 44900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "825.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20079628",
+    "name": "Pond's Men White Boost Face Scrub 50G",
+    "price": 32000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "50.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20069227",
+    "name": "Glow & Lovely Multivitamin Facial Foam 50g",
+    "price": 19400.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "50.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20077498",
+    "name": "Vaseline Petroleum Repairing Jelly Original 50Ml",
+    "price": 35500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "50.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20077310",
+    "name": "Buavita Guava 500Ml",
+    "price": 15900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "500.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20076432",
+    "name": "Sunsilk Shampoo Hijab Refresh 320Ml",
+    "price": 48000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "320.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20075742",
+    "name": "Pepsodent Sikat Gigi Silver Charcoal Soft",
+    "price": 15500.0,
+    "originalprice": 21300.0,
+    "discountpercentage": 27.0,
+    "detail": null,
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20075361",
+    "name": "Zwitsal Baby Bath Natural Milky Honey 400mL",
+    "price": 39900.0,
+    "originalprice": 44200.0,
+    "discountpercentage": 10.0,
+    "detail": "400.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20074434",
+    "name": "Lifebuoy Sabun Mandi Ts Lemon Fresh 4X110g",
+    "price": 22500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "110.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20073986",
+    "name": "Sariwangi Teh Melati 25 Teh Celup",
+    "price": 9600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20072834",
+    "name": "Ponds Pelembab Wajah Age Miracle Hexyl-Retinol Day Cream 10G",
+    "price": 41300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "10.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20072835",
+    "name": "Ponds Pelembap Wajah Age Miracle Hexyl-Retinol Night Cream 10G",
+    "price": 45800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "10.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20072673",
+    "name": "Zwitsal Baby Bath Natural 2 In 1 Hair & Body 300Ml",
+    "price": 39900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "300.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20071156",
+    "name": "Royco Bumbu Dasar Ayam Kuning 600g",
+    "price": 42000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "600.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "10037208",
+    "name": "Close Up Pasta Gigi Deep Action Menthol Fresh 110g",
+    "price": 12500.0,
+    "originalprice": 17200.0,
+    "discountpercentage": 27.0,
+    "detail": "110.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20071828",
+    "name": "Rinso Deterjen Powder Molto 1.8Kg",
+    "price": 59900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "1.8kg",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20071827",
+    "name": "Rinso Deterjen Powder + Molto Rose Fresh 770G",
+    "price": 19500.0,
+    "originalprice": 27300.0,
+    "discountpercentage": 29.0,
+    "detail": "770.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20013133",
+    "name": "Zwitsal Baby Sabun Mandi Batang Natural Rich Honey 70G",
+    "price": 7900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "70.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "10037787",
+    "name": "Zwitsal Baby Cologne Canola Oil Floral Kisses 100mL",
+    "price": 26500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20070383",
+    "name": "Ponds Pelembab Wajah Day Cream Normal Skin Niasorcinol 20G",
+    "price": 31900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067963",
+    "name": "Lifebuoy Sabun Mandi Ts Multipack 05966 Mild Care 4X60g",
+    "price": 14300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "60.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067962",
+    "name": "Lifebuoy Sabun Mandi Ts (46093) Total 10 110G",
+    "price": 7700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "110.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067964",
+    "name": "Lifebuoy Sabun Mandi Ts Multipack 06105 Total 10 4X60g",
+    "price": 14300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "60.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067961",
+    "name": "Lifebuoy Sabun Mandi Ts (46094) Mild Care 110G",
+    "price": 7700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "110.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067246",
+    "name": "Sunsilk Konditioner Black Shine 160mL",
+    "price": 32600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "160.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067200",
+    "name": "Buavita Guava 1L",
+    "price": 22300.0,
+    "originalprice": 29800.0,
+    "discountpercentage": 25.0,
+    "detail": "1.0l",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067241",
+    "name": "Sunsilk Shampoo Black Shine 160mL",
+    "price": 20900.0,
+    "originalprice": 27500.0,
+    "discountpercentage": 24.0,
+    "detail": "160.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067210",
+    "name": "Ponds Pembersih Wajah Bright Beauty Niasorcinol 100G",
+    "price": 36300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067203",
+    "name": "Ponds Pembersih Wajah Charcoal 50G",
+    "price": 26000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "50.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067245",
+    "name": "Sunsilk Shampoo Soft & Smooth 320mL",
+    "price": 48000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "320.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067209",
+    "name": "Ponds Pembersih Wajah Bright Beauty Niasorcinol 50G",
+    "price": 25100.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "50.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067240",
+    "name": "Sunsilk Shampoo Co-Creations Black Shine 70mL",
+    "price": 15200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "70.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067201",
+    "name": "Buavita Juice Mango 1000Ml",
+    "price": 22300.0,
+    "originalprice": 29800.0,
+    "discountpercentage": 25.0,
+    "detail": "1000.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  },
+  {
+    "id": "20067449",
+    "name": "Glow & Lovely Multivitamin Facial Foam 100g",
+    "price": 30900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:13 +0000"
+  }
+]

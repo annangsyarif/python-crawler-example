@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Zwitsal Bath Natural Minyak Telon Pouch 250Ml",
+    "price": 29200.0,
+    "originalprice": 46900.0,
+    "discountpercentage": 38.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:17 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Citra Green Tea Facial Foam 50G",
+    "price": 23100.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 17.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:17 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Lifebuoy Sabun Cair Lemon Fresh Botol 100Ml",
+    "price": 16200.0,
+    "originalprice": 26900.0,
+    "discountpercentage": 40.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:17 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Lifebuoy Sabun Mandi Cair Total 10 Botol 100Ml",
+    "price": 22500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:17 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Ponds Bright Perfect Potion Essence 110Ml",
+    "price": 94800.0,
+    "originalprice": 111900.0,
+    "discountpercentage": 15.0,
+    "detail": "110.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:17 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Lifebuoy Sabun Mandi Cair Cool Frsh 250Ml",
+    "price": 17100.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 39.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:17 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Lifebuoy Sabun Mandi Cair Total 10 250Ml",
+    "price": 17100.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 39.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:17 +0000"
+  }
+]

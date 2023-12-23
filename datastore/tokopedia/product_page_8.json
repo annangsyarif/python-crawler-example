@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Rinso Molto Detergen Cair Micellar Soft 700mL",
+    "price": 17900.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 38.0,
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Closeup Korean Pasta Gigi Everfresh Eucalyptus 100G",
+    "price": 28800.0,
+    "originalprice": 41900.0,
+    "discountpercentage": 31.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Closeup Korean Pasta Gigi Everfresh Spearmint 100G",
+    "price": 28800.0,
+    "originalprice": 41900.0,
+    "discountpercentage": 31.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Glow & Lovely Brightening Bodywash with Multivitamin&Niacinamide 825ml",
+    "price": 42400.0,
+    "originalprice": 63900.0,
+    "discountpercentage": 34.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Glow&Lovely Brightening Bodywash with Multivitamin & Niacinamide 550ml",
+    "price": 37800.0,
+    "originalprice": 54900.0,
+    "discountpercentage": 31.0,
+    "detail": "550.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 6,
+    "name": "PHILIPS Hand Mixer HR1552 Original Philips",
+    "price": 10000000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Glow&Lovely Brightening Bodywash with Multivitamin & Niacinamide 400ml",
+    "price": 23500.0,
+    "originalprice": 35900.0,
+    "discountpercentage": 35.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Royco Lunchbox",
+    "price": 100000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Lock&Lock Royco",
+    "price": 10000000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Lifebuoy Sabun Cuci Piring Refill 1500ML",
+    "price": 18800.0,
+    "originalprice": 36900.0,
+    "discountpercentage": 49.0,
+    "detail": "1500.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Lifebuoy Sabun Cuci Piring Refill 680ML",
+    "price": 9200.0,
+    "originalprice": 14900.0,
+    "discountpercentage": 38.0,
+    "detail": "680.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Sunsilk Shampoo Rambut Lembut Soft & Smooth Activ-Infusion Rambut",
+    "price": 50000.0,
+    "originalprice": 65900.0,
+    "discountpercentage": 24.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Sunsilk Shampoo Rambut Hitam Berkilau Black Shine Activ-Infusion",
+    "price": 50000.0,
+    "originalprice": 65900.0,
+    "discountpercentage": 24.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Dove Shampo Perawatan Rambut Rontok Sampo 430 ML",
+    "price": 48000.0,
+    "originalprice": 61900.0,
+    "discountpercentage": 22.0,
+    "detail": "430.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:38 +0000"
+  }
+]

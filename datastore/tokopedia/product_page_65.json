@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Dove Hair Tonic Hair Fall Intensive Leave On Treatment 50ml",
+    "price": 46200.0,
+    "originalprice": 79800.0,
+    "discountpercentage": 42.0,
+    "detail": "50.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Simple Water Boost Hydrating Cleansing Wipes 25s",
+    "price": 66900.0,
+    "originalprice": 97900.0,
+    "discountpercentage": 32.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Simple Water Boost Micellar Cleansing Water 200ml",
+    "price": 95200.0,
+    "originalprice": 109900.0,
+    "discountpercentage": 13.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Citra Marine Collagen Body Scrub 100ml",
+    "price": 20100.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Dove Shampoo Habatus Sauda 160ml",
+    "price": 35300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Citra Volcanic Clay Body Scrub 100ml",
+    "price": 19000.0,
+    "originalprice": 20100.0,
+    "discountpercentage": 5.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Citra Volcanic Clay Body Wash 400ml",
+    "price": 38500.0,
+    "originalprice": 40800.0,
+    "discountpercentage": 6.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Dove Conditioner Habatus Sauda 160ml",
+    "price": 32200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Pepsodent Action 123 Pasta Gigi Cengkeh 160G",
+    "price": 29900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "160.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Simple Kind To Skin Micellar Cleansing Water 200Ml",
+    "price": 81700.0,
+    "originalprice": 109900.0,
+    "discountpercentage": 26.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Ponds Antibacterial Face Wipes Refreshing Aloe Vera [WIB]",
+    "price": 31700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Sariwangi Teh Hitam Jahe & Kunyit 25 Teh Celup [WIB]",
+    "price": 16900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Molto Trika Pelicin Pakaian Japanese Peach 400Ml [WIB]",
+    "price": 12600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Hampers Senyum Keluarga Pepsodent",
+    "price": 119400.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Sunlight Professional Pembersih Kaca Higienis 450 Ml Pouch",
+    "price": 4900.0,
+    "originalprice": 7900.0,
+    "discountpercentage": 38.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 16,
+    "name": "Vixal Professional Pembersih Kamar Mandi & Porselen 2 L Jerigen",
+    "price": 43500.0,
+    "originalprice": 63900.0,
+    "discountpercentage": 32.0,
+    "detail": "2.0l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 17,
+    "name": "Molto Professional Parfum Laundry Clean Fresh Perfume 5 L Jerigen",
+    "price": 249900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "5.0l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 18,
+    "name": "Sunlight Professional Sabun Cuci Piring Cair Jeruk Nipis 2 L Pouch",
+    "price": 42500.0,
+    "originalprice": 67900.0,
+    "discountpercentage": 37.0,
+    "detail": "2.0l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 19,
+    "name": "[Khusus Panen Telur] Jawara Cabai Tabur Jambal 30G",
+    "price": 9000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "30.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 20,
+    "name": "[Khusus Panen Telur] Fair & Lovely Multivitamin Serum Sheet Mask 20G",
+    "price": 9750.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 21,
+    "name": "[Khusus Panen Telur] PEPSODENT PASTA GIGI PENCEGAH GIGI BERLUBANG 190G",
+    "price": 10000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "190.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 22,
+    "name": "[Khusus Panen Telur] ROYCO BUMBU KALDU AYAM PENYEDAP RASA 230G",
+    "price": 9750.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "230.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 23,
+    "name": "[Khusus Panen Telur] ROYCO BUMBU KALDU SAPI PENYEDAP RASA 230G",
+    "price": 9750.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "230.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 24,
+    "name": "[Khusus Panen Telur] Axe Parfum Saku Dark Temptation 17Ml",
+    "price": 9750.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "17.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 25,
+    "name": "Vaseline Lip care Pelembut & Pencerah BIbir Original 10g",
+    "price": 29000.0,
+    "originalprice": 36700.0,
+    "discountpercentage": 21.0,
+    "detail": "10.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 26,
+    "name": "Sunsilk Shampoo Soft & Smooth 170 Ml",
+    "price": 26400.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 27,
+    "name": "Unilever X SiCepat Paket Oven",
+    "price": 408599.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 28,
+    "name": "Paket Hampers Lebaran Unilever Hemat",
+    "price": 353900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 29,
+    "name": "Paket Hampers Lebaran Unilever Lengkap",
+    "price": 401700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  },
+  {
+    "id": 30,
+    "name": "Zwitsal Baby Wipes Tissue Basah Sensitive 50 sheets",
+    "price": 16200.0,
+    "originalprice": 26900.0,
+    "discountpercentage": 40.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:23:19 +0000"
+  }
+]

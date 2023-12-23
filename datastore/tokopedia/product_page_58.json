@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Love Beauty And Planet Shampoo & Conditioner Regime Pack Volume Bounty",
+    "price": 105100.0,
+    "originalprice": 121900.0,
+    "discountpercentage": 14.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:07 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Love Beauty And Planet Shampoo & Conditioner Regime Pack Blooming Colo",
+    "price": 121900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:07 +0000"
+  },
+  {
+    "id": 3,
+    "name": "St. Ives Face Acne Control Apricot Scrub 170g",
+    "price": 69900.0,
+    "originalprice": 101900.0,
+    "discountpercentage": 31.0,
+    "detail": "170.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:07 +0000"
+  }
+]

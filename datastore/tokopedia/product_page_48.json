@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Love Beauty Planet Natural Self Care Kit Mimosa & Coconut Water 200ml",
+    "price": 114100.0,
+    "originalprice": 132200.0,
+    "discountpercentage": 14.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Love Beauty Planet Natural Self Care Kit Murumuru Butter & Rose 200ml",
+    "price": 120800.0,
+    "originalprice": 140100.0,
+    "discountpercentage": 14.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Suave Essentials Body Wash Aloe & Rose Water 443ml",
+    "price": 58500.0,
+    "originalprice": 84900.0,
+    "discountpercentage": 31.0,
+    "detail": "443.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Suave Essentials Body Wash Ocean Breeze 443ml",
+    "price": 84900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "443.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Suave Essentials Body Wash Milk & Honey 443ml",
+    "price": 58500.0,
+    "originalprice": 84900.0,
+    "discountpercentage": 31.0,
+    "detail": "443.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Zendium Pasta Gigi Extra Mild 75ml - Pencegah Sariawan & Mulut Kering",
+    "price": 47300.0,
+    "originalprice": 68900.0,
+    "discountpercentage": 31.0,
+    "detail": "75.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Zendium Pasta Gigi Complete Care 75ml - Gigi Kuat & Gusi Sehat",
+    "price": 47300.0,
+    "originalprice": 68900.0,
+    "discountpercentage": 31.0,
+    "detail": "75.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Zendium Pasta Gigi Gum Care 75ml - Meningkatkan Kesehatan Gusi",
+    "price": 47300.0,
+    "originalprice": 68900.0,
+    "discountpercentage": 31.0,
+    "detail": "75.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 9,
+    "name": "St Ives Body Lotion Vitamin E Avocado 200ml",
+    "price": 44600.0,
+    "originalprice": 64900.0,
+    "discountpercentage": 31.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 10,
+    "name": "St Ives Body Lotion Oatmeal & Shea Butter 200ml",
+    "price": 44600.0,
+    "originalprice": 64900.0,
+    "discountpercentage": 31.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 11,
+    "name": "St Ives Body Lotion Vitamin E Avocado 400ml",
+    "price": 77900.0,
+    "originalprice": 113900.0,
+    "discountpercentage": 32.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Pepsodent Mouthwash Herbal Natural 300Ml",
+    "price": 29500.0,
+    "originalprice": 47900.0,
+    "discountpercentage": 38.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Dove Mens Body Wash Clean Comfort 400ml",
+    "price": 67200.0,
+    "originalprice": 88900.0,
+    "discountpercentage": 24.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Dove Deodorant Spray Original 150ml",
+    "price": 44700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "150.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Dove Soap Bar Pink 100 gr",
+    "price": 9900.0,
+    "originalprice": 15900.0,
+    "discountpercentage": 38.0,
+    "detail": "100.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:29 +0000"
+  }
+]
