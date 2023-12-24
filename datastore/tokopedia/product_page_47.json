@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "[KESEMPATAN MENANG] Sunlight Sabun Cuci Piring Korean Strawberry 560ml",
+    "price": 12900.0,
+    "originalprice": 23900.0,
+    "discountpercentage": 46.0,
+    "detail": "560.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:19 +0000"
+  },
+  {
+    "id": 2,
+    "name": "[KESEMPATAN MENANG] Sunlight Sabun Cuci Piring Habbatussauda 700Ml",
+    "price": 37900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:19 +0000"
+  },
+  {
+    "id": 3,
+    "name": "[KESEMPATAN MENANG] Sunlight Sabun Cuci Piring Mint Refill 700Ml",
+    "price": 37900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:19 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Molto Pelembut & Pewangi Pakaian Pure 680ml",
+    "price": 22100.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "680.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:19 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Lipton Tea Delight Green Tea Candle & Voucher Mecapan",
+    "price": 62900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:20:19 +0000"
+  }
+]

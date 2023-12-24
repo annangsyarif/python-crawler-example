@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "name": "Super Pell Pembersih Lantai Cherry Rose Pouch 770Ml",
+    "price": 14200.0,
+    "originalprice": 18900.0,
+    "discountpercentage": 25.0,
+    "detail": "770.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Lifebuoy Hand Wash Kitchen Fresh Refill 180ml",
+    "price": 12300.0,
+    "originalprice": 19900.0,
+    "discountpercentage": 38.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Citra Korean Pearls Mulberry Body Lotion Pearly Bright UV 230ML",
+    "price": 28600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "230.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Citra Bengkoang Green Tea Body Lotion Natural Glowing Bright Uv 210Ml",
+    "price": 28600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "210.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Zwitsal Baby Bath Hair And Body Natural Aloe Vera 300Ml-Sabun Bayi",
+    "price": 31900.0,
+    "originalprice": 51900.0,
+    "discountpercentage": 39.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Clear Shampo Anti Ketombe Complete Soft Care 160ml",
+    "price": 31500.0,
+    "originalprice": 38800.0,
+    "discountpercentage": 19.0,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Rexona Women Deodorant Roll On Glowing White 40Ml - Deo Roll On",
+    "price": 15700.0,
+    "originalprice": 18300.0,
+    "discountpercentage": 14.0,
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Rexona Deodorant Roll-On Dreamy Bright 40Ml",
+    "price": 15700.0,
+    "originalprice": 18300.0,
+    "discountpercentage": 14.0,
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Pond'S Instabright Tone Up Facial Foam 100G",
+    "price": 38000.0,
+    "originalprice": 55900.0,
+    "discountpercentage": 32.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Buavita Jus Mangga Mango Juice Buah Asli 500ml",
+    "price": 14300.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 32.0,
+    "detail": "500.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 11,
+    "name": "PEPSODENT KIDSTOOTHPASTE PASTA GIGI ANAK STRAWBERRY UNTUK ANAK 50G",
+    "price": 6100.0,
+    "originalprice": 9900.0,
+    "discountpercentage": 38.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 12,
+    "name": "LIFEBUOY SABUN CUCI TANGAN REFILL MILD CARE 180ML - HANDWASH REFILL",
+    "price": 12300.0,
+    "originalprice": 19900.0,
+    "discountpercentage": 38.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 13,
+    "name": "LIFEBUOY SABUN CUCI TANGAN REFILL TOTAL 10 180ML - HANDWASH REFILL",
+    "price": 12300.0,
+    "originalprice": 19900.0,
+    "discountpercentage": 38.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Closeup White Attraction Pasta Gigi Natural Smile 100G",
+    "price": 19800.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 5.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Ponds Men Lightening Oil Clear Sabun Muka 100G",
+    "price": 39800.0,
+    "originalprice": 46400.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 16,
+    "name": "PEPSODENT WHITE TOOTHPASTE PASTA GIGI PENCEGAH GIGI BERLUBANG 225G",
+    "price": 14300.0,
+    "originalprice": 22900.0,
+    "discountpercentage": 38.0,
+    "detail": "225.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 17,
+    "name": "St. Ives Fresh Skin Apricot Face Scrub 170G",
+    "price": 51475.0,
+    "originalprice": 101900.0,
+    "discountpercentage": 49.0,
+    "detail": "170.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 18,
+    "name": "Sariwangi Teh Melati - 25 Teh Celup",
+    "price": 8600.0,
+    "originalprice": 12900.0,
+    "discountpercentage": 33.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 19,
+    "name": "Citra Body Wash Sabun Mandi Cair Refill Natural Glow Bengkoang 400Ml",
+    "price": 23500.0,
+    "originalprice": 38900.0,
+    "discountpercentage": 40.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 20,
+    "name": "Zwitsal Baby Oil Natural 100Ml",
+    "price": 21800.0,
+    "originalprice": 35900.0,
+    "discountpercentage": 39.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 21,
+    "name": "Bango Kecap Manis Pouch Flatpack 210Ml",
+    "price": 10700.0,
+    "originalprice": 16900.0,
+    "discountpercentage": 37.0,
+    "detail": "210.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 22,
+    "name": "Wipol Karbol Classic Pine Botol 450ML",
+    "price": 20000.0,
+    "originalprice": 29900.0,
+    "discountpercentage": 33.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 23,
+    "name": "Dove Deodorant Ultimate Repair 40Ml",
+    "price": 21900.0,
+    "originalprice": 27100.0,
+    "discountpercentage": 19.0,
+    "detail": "40.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 24,
+    "name": "Sariwangi Teh Hijau 25 Teh Celup",
+    "price": 10600.0,
+    "originalprice": 15900.0,
+    "discountpercentage": 33.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 25,
+    "name": "Buavita Jus Buah Asli Apel 1000Ml -Vitamin A, Juice Apple, Apple Juice",
+    "price": 27700.0,
+    "originalprice": 37900.0,
+    "discountpercentage": 27.0,
+    "detail": "1000.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 26,
+    "name": "Buavita Jus Jeruk Orange Juice Buah Asli 1Liter",
+    "price": 27700.0,
+    "originalprice": 37900.0,
+    "discountpercentage": 27.0,
+    "detail": "1.0liter",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 27,
+    "name": "Buavita Jus Jambu Guava Juice Buah Asli 1Liter",
+    "price": 27700.0,
+    "originalprice": 37900.0,
+    "discountpercentage": 27.0,
+    "detail": "1.0liter",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 28,
+    "name": "Buavita Jus Mangga Mango Juice Buah Asli 1L",
+    "price": 27700.0,
+    "originalprice": 37900.0,
+    "discountpercentage": 27.0,
+    "detail": "1.0l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 29,
+    "name": "Buavita Apple 500ml",
+    "price": 14300.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 32.0,
+    "detail": "500.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 30,
+    "name": "Sunlight Sabun Cuci Piring Jeruk Nipis Botol 400ML",
+    "price": 18900.0,
+    "originalprice": 23800.0,
+    "discountpercentage": 21.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 31,
+    "name": "RINSO MOLTO DETERJEN ANTI NODA BUBUK PEWANGI PERFUME ESSENCE 1.8KG",
+    "price": 48600.0,
+    "originalprice": 72000.0,
+    "discountpercentage": 33.0,
+    "detail": "1.8kg",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 32,
+    "name": "Lifebuoy Sabun Cair Cool Fresh Botol 100ML",
+    "price": 16200.0,
+    "originalprice": 26900.0,
+    "discountpercentage": 40.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 33,
+    "name": "Lifebuoy Sabun Cair Total 10 Refill 825Ml",
+    "price": 39300.0,
+    "originalprice": 68900.0,
+    "discountpercentage": 43.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 34,
+    "name": "Lifebuoy Sabun Cair Mild Care Refill 825Ml",
+    "price": 39300.0,
+    "originalprice": 63900.0,
+    "discountpercentage": 38.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 35,
+    "name": "Lifebuoy Sabun Cair Lemon Fresh Refill 825Ml",
+    "price": 39300.0,
+    "originalprice": 68900.0,
+    "discountpercentage": 43.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 36,
+    "name": "Vaseline Petroleum Jelly Original 100Ml - Repairing Jelly,Kulit Rusak",
+    "price": 34100.0,
+    "originalprice": 56700.0,
+    "discountpercentage": 40.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 37,
+    "name": "Lux Sabun Cair Pink Soft Rose Refill 450Ml",
+    "price": 24900.0,
+    "originalprice": 32800.0,
+    "discountpercentage": 24.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 38,
+    "name": "Lifebuoy Shampoo Anti Hairfall 340ml",
+    "price": 40200.0,
+    "originalprice": 47300.0,
+    "discountpercentage": 15.0,
+    "detail": "340.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 39,
+    "name": "GLOW & LOVELY FACIAL WASH MULTIVITAMIN SABUN MUKA GLOW PENCERAH 100G",
+    "price": 28500.0,
+    "originalprice": 41900.0,
+    "discountpercentage": 32.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 40,
+    "name": "Citra Sakura Peach Body Lotion Pinkish Bright Uv 230Ml",
+    "price": 26600.0,
+    "originalprice": 30100.0,
+    "discountpercentage": 12.0,
+    "detail": "230.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 41,
+    "name": "Citra Facial Foam Green Tea 100G",
+    "price": 34000.0,
+    "originalprice": 38200.0,
+    "discountpercentage": 11.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  },
+  {
+    "id": 42,
+    "name": "Citra Cream Wajah Green Tea 40G-Moisturizer Kulit Berminyak, Anti Acne",
+    "price": 45700.0,
+    "originalprice": 51500.0,
+    "discountpercentage": 11.0,
+    "detail": "40.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:15:49 +0000"
+  }
+]

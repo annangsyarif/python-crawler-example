@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Lifebuoy Sabun Mandi Cair Shiso & Sandalwood 825Ml",
+    "price": 42300.0,
+    "originalprice": 72900.0,
+    "discountpercentage": 42.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:58 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Lifebuoy Sabun Mandi Cair Shiso & Mineral Clay 825Ml",
+    "price": 42300.0,
+    "originalprice": 72900.0,
+    "discountpercentage": 42.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:58 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Lifebuoy Sabun Mandi Cair Shiso & Sandalwood 450Ml",
+    "price": 23800.0,
+    "originalprice": 40900.0,
+    "discountpercentage": 42.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:58 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Clear Shampoo Super Fresh Apple 70Ml",
+    "price": 14300.0,
+    "originalprice": 18300.0,
+    "discountpercentage": 22.0,
+    "detail": "70.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:58 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Tresemme Hairfall Control Conditioner 170ml",
+    "price": 36200.0,
+    "originalprice": 42400.0,
+    "discountpercentage": 15.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:58 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Rinso Deterjen Bubuk Anti Noda Classic Fresh 1.2kg",
+    "price": 39400.0,
+    "originalprice": 49900.0,
+    "discountpercentage": 21.0,
+    "detail": "1.2kg",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:58 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Ponds Bright Beauty Triple Glow Serum 30g",
+    "price": 103100.0,
+    "originalprice": 112200.0,
+    "discountpercentage": 8.0,
+    "detail": "30.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:58 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Vaseline UV Protect Sun Stick 15g",
+    "price": 134100.0,
+    "originalprice": 165600.0,
+    "discountpercentage": 19.0,
+    "detail": "15.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:58 +0000"
+  }
+]

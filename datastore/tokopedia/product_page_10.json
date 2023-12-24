@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "name": "Closeup Pasta Gigi Fresh Multivitamin Complete Fresh Protection 100g",
+    "price": 14800.0,
+    "originalprice": 21900.0,
+    "discountpercentage": 32.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Lux Bright Bluebell Niacinamide Body Wash 900ml",
+    "price": 43900.0,
+    "originalprice": 55000.0,
+    "discountpercentage": 20.0,
+    "detail": "900.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Lux Bright Bluebell Niacinamide Body Wash 450ml",
+    "price": 24900.0,
+    "originalprice": 32800.0,
+    "discountpercentage": 24.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Tresemme Root Touch Up Spray Black 70.8GR - untuk Dull, Faded Colored",
+    "price": 172500.0,
+    "originalprice": 249900.0,
+    "discountpercentage": 31.0,
+    "detail": "70.8gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Vaseline Hijab Bright Nourishing Body Serum & All Day Radiant 180ml",
+    "price": 62300.0,
+    "originalprice": 83600.0,
+    "discountpercentage": 25.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Pond's Bright Beauty Triple Glow Serum 30g & Serum Mask 20g",
+    "price": 142900.0,
+    "originalprice": 168800.0,
+    "discountpercentage": 15.0,
+    "detail": "30.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Pond's Bright Beauty Triple Glow Serum 30g & Perfecting Cream 20g",
+    "price": 129600.0,
+    "originalprice": 153400.0,
+    "discountpercentage": 16.0,
+    "detail": "30.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Pond's Bright Beauty Facial Foam 100g & Triple Glow Serum 30g",
+    "price": 134700.0,
+    "originalprice": 159400.0,
+    "discountpercentage": 15.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Pond's Bright Beauty Facial Foam 100g & Perfecting Cream 20g",
+    "price": 61400.0,
+    "originalprice": 72800.0,
+    "discountpercentage": 16.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Vaseline Gluta Serum UV Lotion Flawless Bright & Dewy Radiance",
+    "price": 101300.0,
+    "originalprice": 137400.0,
+    "discountpercentage": 26.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Sunlight Sabun Cuci Piring Anti Bau 650mL",
+    "price": 13200.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 37.0,
+    "detail": "650.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Sunlight Sabun Cuci Piring Higienis 650mL",
+    "price": 13200.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 37.0,
+    "detail": "650.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Clear Shampoo Anti Ketombe Complete Soft Care Tiny Tan 660ml",
+    "price": 107600.0,
+    "originalprice": 113000.0,
+    "discountpercentage": 5.0,
+    "detail": "660.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Pond'S Men Lightning Oil Clear Sabun Muka 50G",
+    "price": 29500.0,
+    "originalprice": 43900.0,
+    "discountpercentage": 33.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Ponds Men Facial Foam Acne Solution 50G",
+    "price": 29500.0,
+    "originalprice": 34400.0,
+    "discountpercentage": 14.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 16,
+    "name": "Lifebuoy Sabun Batang Bar Shiso & Mineral Clay 110g",
+    "price": 18200.0,
+    "originalprice": 37900.0,
+    "discountpercentage": 52.0,
+    "detail": "110.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 17,
+    "name": "TRESemme Keratin Smooth Shampoo Refill Pouch 900ml",
+    "price": 109500.0,
+    "originalprice": 127800.0,
+    "discountpercentage": 14.0,
+    "detail": "900.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 18,
+    "name": "Pepsodent Pasta Gigi Pencegah Gigi Berlubang 150g",
+    "price": 9200.0,
+    "originalprice": 29800.0,
+    "discountpercentage": 69.0,
+    "detail": "150.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 19,
+    "name": "Ponds Age Miracle Complete Set Anti-Aging Retinol & Niacinamide Set",
+    "price": 655000.0,
+    "originalprice": 762000.0,
+    "discountpercentage": 14.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 20,
+    "name": "Citra Pearly Glow Facial Foam 50g",
+    "price": 23100.0,
+    "originalprice": 58100.0,
+    "discountpercentage": 60.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 21,
+    "name": "Ponds Age Miracle Ultimate Set Anti-Aging Retinol & Niacinamide Set",
+    "price": 885600.0,
+    "originalprice": 1030300.0,
+    "discountpercentage": 14.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 22,
+    "name": "Dove Shampoo Nutritive Solutions Total Hair Fall Treatment 70ml",
+    "price": 15400.0,
+    "originalprice": 24900.0,
+    "discountpercentage": 38.0,
+    "detail": "70.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 23,
+    "name": "Rexona Women Antiperspirant Deo Hijab Peach & Mint Cool Roll On 45ml",
+    "price": 23600.0,
+    "originalprice": 26300.0,
+    "discountpercentage": 10.0,
+    "detail": "45.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 24,
+    "name": "Citra Pearly Glow Facial Foam 100g",
+    "price": 34000.0,
+    "originalprice": 42800.0,
+    "discountpercentage": 21.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 25,
+    "name": "TRESemme Volume Thickening Hair Spray untuk Rambut Lebih Tebal 193g",
+    "price": 148500.0,
+    "originalprice": 172200.0,
+    "discountpercentage": 14.0,
+    "detail": "193.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 26,
+    "name": "Simple Water Boost Hydrating Gel Cream 50Ml",
+    "price": 118900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "50.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 27,
+    "name": "Lifebuoy Shampoo Kuat & Berkilau 900ML",
+    "price": 60200.0,
+    "originalprice": 76900.0,
+    "discountpercentage": 22.0,
+    "detail": "900.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 28,
+    "name": "Citra Avocado Honey Body Lotion Nourishing Glow 110Ml",
+    "price": 15000.0,
+    "originalprice": 46000.0,
+    "discountpercentage": 67.0,
+    "detail": "110.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 29,
+    "name": "Sunlight Lime Cream 270G",
+    "price": 4500.0,
+    "originalprice": 6900.0,
+    "discountpercentage": 35.0,
+    "detail": "270.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 30,
+    "name": "Lifebuoy Sabun Batang Mild Care 110G",
+    "price": 6200.0,
+    "originalprice": 9900.0,
+    "discountpercentage": 37.0,
+    "detail": "110.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 31,
+    "name": "Lifebuoy Sabun Mandi Cair Mild Care 250Ml",
+    "price": 17100.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 39.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 32,
+    "name": "Zwitsal Baby Bar Soap Natural Milk & Honey 80Gr",
+    "price": 5000.0,
+    "originalprice": 8900.0,
+    "discountpercentage": 44.0,
+    "detail": "80.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 33,
+    "name": "Pepsodent Pencegah Gigi Berlubang Pasta Gigi 120G",
+    "price": 8700.0,
+    "originalprice": 13900.0,
+    "discountpercentage": 37.0,
+    "detail": "120.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 34,
+    "name": "Lifebuoy Sabun Mandi Cair Matcha Green Tea 250Ml",
+    "price": 17600.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 39.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 35,
+    "name": "Citra Korean Pearls Mulberry Body Lotion Pearly Glow Uv 60Ml",
+    "price": 8100.0,
+    "originalprice": 11900.0,
+    "discountpercentage": 32.0,
+    "detail": "60.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 36,
+    "name": "Citra Sabun Mandi Cair Natural Glow Bengkoang 220Ml",
+    "price": 17100.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 39.0,
+    "detail": "220.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 37,
+    "name": "Lifebuoy Sabun Mandi Cair Lemon Fresh 250Ml",
+    "price": 17100.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 39.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 38,
+    "name": "Zwitsal Baby Natural Minyak Telon 60Ml",
+    "price": 23700.0,
+    "originalprice": 38900.0,
+    "discountpercentage": 39.0,
+    "detail": "60.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  },
+  {
+    "id": 39,
+    "name": "Citra Pearly White Facial Foam 50G",
+    "price": 23100.0,
+    "originalprice": 33900.0,
+    "discountpercentage": 32.0,
+    "detail": "50.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:03 +0000"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Dove 1 Minute Super Conditioner Intensive Damage Treatment 70 Ml",
+    "price": 18600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "70.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Love Beauty Planet Shampoo Vegan Biotin Strong & Radiant 400ml",
+    "price": 97200.0,
+    "originalprice": 100200.0,
+    "discountpercentage": 3.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Rinso Matic Deterjen Cair Bukaan Depan 2.7L",
+    "price": 164500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "2.7l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Rinso Deterjen Bubuk Anti Noda Classic Fresh 600G",
+    "price": 21700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "600.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Rinso Matic Deterjen Bubuk Bukaan Atas 800G",
+    "price": 32400.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "800.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Sunlight Sabun Cuci Piring Mint Refill 210ml",
+    "price": 4400.0,
+    "originalprice": 5600.0,
+    "discountpercentage": 21.0,
+    "detail": "210.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Sahaja Detergent Bubuk Yasmin 847g",
+    "price": 23900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "847.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Sahaja Detergent Cair Yasmin 770ml",
+    "price": 23900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "770.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Sunlight Sabun Cuci Piring Jeruk Nipis Refill 400Ml",
+    "price": 13900.0,
+    "originalprice": 17400.0,
+    "discountpercentage": 20.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Rinso Matic Deterjen Cair Bukaan Depan 700Ml",
+    "price": 34000.0,
+    "originalprice": 42900.0,
+    "discountpercentage": 21.0,
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Dove Shampo Perawatan Rambut Lepek 135ml",
+    "price": 28900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "135.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Bango Kecap Manis Light 220ML",
+    "price": 11000.0,
+    "originalprice": 16900.0,
+    "discountpercentage": 35.0,
+    "detail": "220.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:36 +0000"
+  }
+]

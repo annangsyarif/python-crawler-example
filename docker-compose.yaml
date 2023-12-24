@@ -1,0 +1,60 @@
+version: '3'
+
+services:
+  python-crawler-app:
+    container_name: python-crawler-app
+    image: python-crawler-app:latest
+    networks:
+      - python_crawler
+    ports:
+      - "1234:1234"
+    volumes:
+      - ".:/app"
+    depends_on:
+      - postgres
+      - selenium
+      - chrome
+
+  postgres:
+    container_name: postgres
+    image: postgres:latest
+    networks:
+      - python_crawler
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_PASSWORD=admin
+  
+  chrome:
+    container_name: selenium-chrome
+    image: selenium/node-chrome:latest
+    shm_size: 512mb
+    networks:
+      - python_crawler
+    depends_on:
+      - selenium
+    environment:
+      - SE_EVENT_BUS_HOST=selenium
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+      - SE_NODE_MAX_SESSIONS=5
+      - SE_NODE_SESSION_TIMEOUT=240
+      - SE_NODE_OVERRIDE_MAX_SESSIONS=True
+    ports:
+      - '7900:7900'
+
+  selenium:
+    image: selenium/hub:latest
+    container_name: selenium
+    networks:
+      - python_crawler
+    ports:
+      - '4442:4442'
+      - '4443:4443'
+      - '4444:4444'
+    environment:
+      - SE_SESSION_REQUEST_TIMEOUT=240
+
+networks:
+  python_crawler:
+    name: python_crawler

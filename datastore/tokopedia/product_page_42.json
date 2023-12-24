@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Dove Shampo Perawatan Rambut Rusak Sampo 70ml",
+    "price": 15400.0,
+    "originalprice": 24900.0,
+    "discountpercentage": 38.0,
+    "detail": "70.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:30 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Buavita Mini Juice Jeruk 125ml",
+    "price": 4500.0,
+    "originalprice": 12500.0,
+    "discountpercentage": 64.0,
+    "detail": "125.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:30 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Ponds Pure Bright 2 In 1 Sheet Mask Soothe Skin 25G",
+    "price": 23800.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 18.0,
+    "detail": "25.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:30 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Buavita Mini Juice Jambu 125ml",
+    "price": 4500.0,
+    "originalprice": 5900.0,
+    "discountpercentage": 24.0,
+    "detail": "125.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:30 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Wipol Pembersih Lantai Karbol Lemon Refill 200Ml",
+    "price": 4800.0,
+    "originalprice": 17800.0,
+    "discountpercentage": 73.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:30 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Sunlight Sabun Cuci Piring Extra Power 680Ml",
+    "price": 19800.0,
+    "originalprice": 31900.0,
+    "discountpercentage": 38.0,
+    "detail": "680.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:30 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Superpell Pembersih Lantai Lemon Ginger 280Ml",
+    "price": 4800.0,
+    "originalprice": 10000.0,
+    "discountpercentage": 52.0,
+    "detail": "280.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:30 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Citra Bar Soap Pearly Glow 70G",
+    "price": 3600.0,
+    "originalprice": 5500.0,
+    "discountpercentage": 35.0,
+    "detail": "70.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:30 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Citra Bar Soap Natural Glow 70G",
+    "price": 3600.0,
+    "originalprice": 5500.0,
+    "discountpercentage": 35.0,
+    "detail": "70.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:19:30 +0000"
+  }
+]

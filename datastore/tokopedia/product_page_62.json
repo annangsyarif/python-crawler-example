@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Paket Hampers 1 CloseUp",
+    "price": 142600.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:47 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Paket Hampers 3 Close Up",
+    "price": 129700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:47 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Paket Hampers 2 Close Up",
+    "price": 118700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:47 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Lifebuoy Molto Wipol Kit - Hair Mist Fabric Spray and Wipes",
+    "price": 77800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:47 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Rinso Molto Royal Gold Liquid 20ml - 1 Karton",
+    "price": 160000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:47 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Rinso Molto Rose Fresh Liquid 20ml - 1 Karton",
+    "price": 160000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:47 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Rinso Molto Perfume Essence Liquid 20ml - 1 Karton",
+    "price": 160000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:47 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Paket Perlindungan Higienis",
+    "price": 146800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:22:47 +0000"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "St Ives Body Wash Softening Coconut Water and Orchid 473ml",
+    "price": 83900.0,
+    "originalprice": 121900.0,
+    "discountpercentage": 31.0,
+    "detail": "473.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:08 +0000"
+  },
+  {
+    "id": 2,
+    "name": "St Ives Body Wash Soothing Oatmeal & Shea Butter 473ml",
+    "price": 83125.0,
+    "originalprice": 121900.0,
+    "discountpercentage": 32.0,
+    "detail": "473.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:08 +0000"
+  },
+  {
+    "id": 3,
+    "name": "St Ives Body Wash Exfoliating Apricot 473ml",
+    "price": 83900.0,
+    "originalprice": 121900.0,
+    "discountpercentage": 31.0,
+    "detail": "473.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:08 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Hampers Special Valentine Molto",
+    "price": 137500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:08 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Suave Kids 3 in 1 Shampoo Conditioner Body Wash Silly Apple 532ml",
+    "price": 93000.0,
+    "originalprice": 134900.0,
+    "discountpercentage": 31.0,
+    "detail": "532.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:08 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Suave Kids 3in1 Shampoo Conditioner Body Wash Watermelon Wonder 532ml",
+    "price": 93000.0,
+    "originalprice": 134900.0,
+    "discountpercentage": 31.0,
+    "detail": "532.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:21:08 +0000"
+  }
+]

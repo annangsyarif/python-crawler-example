@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Clear Shampoo Anti Ketombe & Anti Rontok 660ml",
+    "price": 90000.0,
+    "originalprice": 130900.0,
+    "discountpercentage": 31.0,
+    "detail": "660.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Clear Shampoo Anti Ketombe & Anti Rontok 300ml",
+    "price": 53100.0,
+    "originalprice": 77900.0,
+    "discountpercentage": 32.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Molto Pure 135ml",
+    "price": 4800.0,
+    "originalprice": 6900.0,
+    "discountpercentage": 30.0,
+    "detail": "135.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Clear Shampoo Anti Ketombe & Anti Rontok 160ml",
+    "price": 31500.0,
+    "originalprice": 45900.0,
+    "discountpercentage": 31.0,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Citra Hand Body Lotion Serum Complete Glow 100ml",
+    "price": 14400.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 31.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Lifebuoy Bodywash Lemon Fresh Bottle 250ml",
+    "price": 34500.0,
+    "originalprice": 55900.0,
+    "discountpercentage": 38.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Ponds UV Protect Sunserum SPF50 Bottle 30g",
+    "price": 124200.0,
+    "originalprice": 180900.0,
+    "discountpercentage": 31.0,
+    "detail": "30.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Lifebuoy Bodywash Total 10 Bottle 250ml",
+    "price": 34500.0,
+    "originalprice": 55900.0,
+    "discountpercentage": 38.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Vixal Kuat Segar Pouch 600ml",
+    "price": 14300.0,
+    "originalprice": 20900.0,
+    "discountpercentage": 32.0,
+    "detail": "600.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Vixal Kuat Segar Pouch 180ml",
+    "price": 4800.0,
+    "originalprice": 6900.0,
+    "discountpercentage": 30.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:21 +0000"
+  }
+]

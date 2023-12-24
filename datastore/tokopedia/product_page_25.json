@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Citra Bengkoang Green Tea Body Lotion Natural Glowing Bright Uv 210 Ml",
+    "price": 24200.0,
+    "originalprice": 28600.0,
+    "discountpercentage": 15.0,
+    "detail": "210.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:54 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Zwitsal Mini Travel Pack Baby Gifset - Baby TravelPack",
+    "price": 26900.0,
+    "originalprice": 43900.0,
+    "discountpercentage": 39.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:54 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Molto Pewangi Pakaian Floral Bliss 1700 Ml - Softener Pelembut Baju",
+    "price": 27400.0,
+    "originalprice": 41900.0,
+    "discountpercentage": 35.0,
+    "detail": "1700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:54 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Lifebuoy Sabun Cair Lemon Fresh Refill 825 Ml",
+    "price": 29000.0,
+    "originalprice": 68900.0,
+    "discountpercentage": 58.0,
+    "detail": "825.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:54 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Lifebuoy Shampoo Anti Hairfall 170 Ml",
+    "price": 24200.0,
+    "originalprice": 31900.0,
+    "discountpercentage": 24.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:54 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Buy 2 Vaseline Hand Body Lotion Intensive Care Aloe Vera Soothe 400ml",
+    "price": 103500.0,
+    "originalprice": 193600.0,
+    "discountpercentage": 47.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:16:54 +0000"
+  }
+]

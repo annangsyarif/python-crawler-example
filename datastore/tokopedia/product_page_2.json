@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Zwitsal Baby Bath Hair & Body Aloe Vera 400mL",
+    "price": 52900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Sunsilk Shampoo Anti Ketombe Rambut Sehat Kuat 160ml",
+    "price": 36900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "160.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Sunsilk Shampoo Anti Ketombe Rambut Sehat Kuat 70ml",
+    "price": 20900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "70.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Lifebuoy Sabun Mandi Cair Mild Care Botol 250Ml",
+    "price": 55900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Zwitsal Baby Bath Hair & Body Milky Honey 400mL",
+    "price": 32300.0,
+    "originalprice": 52900.0,
+    "discountpercentage": 39.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Zwitsal Baby Bath Telon 200mL",
+    "price": 20300.0,
+    "originalprice": 32900.0,
+    "discountpercentage": 38.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Zwitsal Baby Bath Hair & Body Antibac 400mL",
+    "price": 32300.0,
+    "originalprice": 52900.0,
+    "discountpercentage": 39.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Zwitsal Baby Bath Hair & Body Antibac 200mL",
+    "price": 20300.0,
+    "originalprice": 32900.0,
+    "discountpercentage": 38.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Zwitsal Baby Bath Hair & Body Milky Honey 200mL",
+    "price": 20300.0,
+    "originalprice": 32900.0,
+    "discountpercentage": 38.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Rexona Men APA Sport Defense 135 ml",
+    "price": 48403.0,
+    "originalprice": 139800.0,
+    "discountpercentage": 65.0,
+    "detail": "135.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Zwitsal Baby Bath Hair & Body Aloe Vera 200mL",
+    "price": 20300.0,
+    "originalprice": 32900.0,
+    "discountpercentage": 38.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:33 +0000"
+  }
+]

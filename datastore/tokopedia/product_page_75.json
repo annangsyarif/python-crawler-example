@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Rinso Molto Detergen Cair Japanese Peach 1L",
+    "price": 39200.0,
+    "originalprice": 49400.0,
+    "discountpercentage": 21.0,
+    "detail": "1.0l",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Sahaja Spray Anti Bakteri Higienis Untuk Sajadah & Mukena 50Ml",
+    "price": 16100.0,
+    "originalprice": 23900.0,
+    "discountpercentage": 33.0,
+    "detail": "50.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Sahaja Antibacterial Spray Higienis Sajadah Mukena Fabric Spray 220Ml",
+    "price": 32800.0,
+    "originalprice": 47900.0,
+    "discountpercentage": 32.0,
+    "detail": "220.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Zwitsal Hair Lotion Aloe Vera Kemiri Seledri Baby Shark Edition 200ml",
+    "price": 62900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Zwitsal Bath Hair and Body Aloe Vera Baby Shark Edition 300ml",
+    "price": 51900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Axe Deo Body Spray Ice Chill 150ML",
+    "price": 47900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "150.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 7,
+    "name": "MOLTO CAIRAN PEWANGI PAKAIAN JAPANESE PEACH 720ML-PELEMBUT BAJU POUCH",
+    "price": 25900.0,
+    "originalprice": 30300.0,
+    "discountpercentage": 15.0,
+    "detail": "720.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Lifebuoy Sabun Cuci Tangan Anti Bakter Total 10 Refill 220mL",
+    "price": 11500.0,
+    "originalprice": 18900.0,
+    "discountpercentage": 39.0,
+    "detail": "220.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Vaseline Hand Cream Antibacterial Moisturizer Dry Skin Cream 50Ml",
+    "price": 31700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "50.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 10,
+    "name": "Ponds Facial Foam Sabun Muka Pembersih Wajah Anti Bacterial 100G",
+    "price": 33800.0,
+    "originalprice": 35400.0,
+    "discountpercentage": 5.0,
+    "detail": "100.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 11,
+    "name": "Royco Bumbu Kaldu Jamur 170G",
+    "price": 19900.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 31.0,
+    "detail": "170.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 12,
+    "name": "Axe Hair Styling Pomade Ice Chill Clean Cut Look 75G",
+    "price": 39300.0,
+    "originalprice": 45900.0,
+    "discountpercentage": 14.0,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 13,
+    "name": "Royco Bumbu Komplit Nasi Goreng Pedas 17G",
+    "price": 2900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "17.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 14,
+    "name": "Superpell Pembersih Lantai Fuji Sakura 700Ml",
+    "price": 12700.0,
+    "originalprice": 14800.0,
+    "discountpercentage": 14.0,
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 15,
+    "name": "Sahaja Pembersih Lantai Kuntum Bunga Jeruk Pouch 350Ml",
+    "price": 6900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "350.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 16,
+    "name": "Sahaja Pembersih Lantai Kuntum Bunga Jeruk Pouch 730Ml",
+    "price": 13900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "730.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 17,
+    "name": "Sahaja Sabun Cuci Piring Jeruk Nipis Botol 650Ml",
+    "price": 19500.0,
+    "originalprice": 28900.0,
+    "discountpercentage": 33.0,
+    "detail": "650.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 18,
+    "name": "Sahaja Sabun Cuci Piring Jeruk Nipis Pouch 400Ml",
+    "price": 7600.0,
+    "originalprice": 11900.0,
+    "discountpercentage": 36.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  },
+  {
+    "id": 19,
+    "name": "Sahaja Sabun Cuci Piring Jeruk Nipis Pouch Dishwashing Liquid 720Ml",
+    "price": 13000.0,
+    "originalprice": 18900.0,
+    "discountpercentage": 31.0,
+    "detail": "720.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:25:02 +0000"
+  }
+]

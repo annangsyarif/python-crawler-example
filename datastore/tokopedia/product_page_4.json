@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Citra Natural Booster Body Serum Complete Glow 180 ML",
+    "price": 25800.0,
+    "originalprice": 37900.0,
+    "discountpercentage": 32.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:54 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Citra Natural Booster Body Serum Insta Glow 180 ML",
+    "price": 25800.0,
+    "originalprice": 37900.0,
+    "discountpercentage": 32.0,
+    "detail": "180.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:54 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Rinso Professional Detergent Laundry Kiloan Bubuk 3 Kg",
+    "price": 65600.0,
+    "originalprice": 103900.0,
+    "discountpercentage": 37.0,
+    "detail": "3.0kg",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:12:54 +0000"
+  }
+]

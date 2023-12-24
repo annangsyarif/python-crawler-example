@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "VASELINE SPF 50 REFRESHING DAILY SUNSCREEN SERUM PERLINDUNGAN UVA UVB",
+    "price": 93500.0,
+    "originalprice": 222900.0,
+    "discountpercentage": 58.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:26 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Pond's Flawless Radiance Brightening Day Cream 10 gr with Niacinamide",
+    "price": 30500.0,
+    "originalprice": 44900.0,
+    "discountpercentage": 32.0,
+    "detail": "10.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:26 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Vaseline Lotion Healthy Bright Perfect 10 200ml",
+    "price": 39500.0,
+    "originalprice": 62900.0,
+    "discountpercentage": 37.0,
+    "detail": "200.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:26 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Sunlight Sabun Cuci Piring Extra Lembut 625mL",
+    "price": 9900.0,
+    "originalprice": 18900.0,
+    "discountpercentage": 48.0,
+    "detail": "625.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:26 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Zwitsal Baby Shampoo Aloe Vera Kemiri Seledri 250Ml",
+    "price": 25000.0,
+    "originalprice": 47900.0,
+    "discountpercentage": 48.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:26 +0000"
+  },
+  {
+    "id": 6,
+    "name": "stratagem",
+    "price": 10000000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:26 +0000"
+  },
+  {
+    "id": 7,
+    "name": "BUAVITA Jus Buah Korean White Peach Minuman Kolagen Kaya Vitamin 245ml",
+    "price": 9600.0,
+    "originalprice": 13900.0,
+    "discountpercentage": 31.0,
+    "detail": "245.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:26 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Vaseline Gluta Hya Serum & Pond's Age Miracle Day Package",
+    "price": 226800.0,
+    "originalprice": 377800.0,
+    "discountpercentage": 40.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:26 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Vaseline Hijab Radiant Day & Pond's Bright Beauty Serum",
+    "price": 120500.0,
+    "originalprice": 202800.0,
+    "discountpercentage": 41.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:26 +0000"
+  }
+]

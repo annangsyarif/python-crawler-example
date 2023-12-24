@@ -1,0 +1,7 @@
+psycopg2-binary
+flask
+sqlalchemy
+scrapy
+pandas
+selenium
+nltk

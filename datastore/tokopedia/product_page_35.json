@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Zwitsal Baby Bath Milk & Honey 250 Ml",
+    "price": 29200.0,
+    "originalprice": 95800.0,
+    "discountpercentage": 70.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:18:29 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Sariwangi TB50 FEEE Toples Set",
+    "price": 217000.0,
+    "originalprice": 785400.0,
+    "discountpercentage": 72.0,
+    "detail": null,
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:18:29 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Vaseline Gluta Hya Regime Day & Night 330ml",
+    "price": 138100.0,
+    "originalprice": 234800.0,
+    "discountpercentage": 41.0,
+    "detail": "330.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:18:29 +0000"
+  }
+]

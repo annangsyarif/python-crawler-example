@@ -1,0 +1,542 @@
+[
+  {
+    "id": "20117291",
+    "name": "Molto Pelicin &Pewangi Pakaian Trika Floral Bliss 400Ml",
+    "price": 10200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "400.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20117107",
+    "name": "Bango Kecap Manis Refill 735mL",
+    "price": 34200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "735.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20116527",
+    "name": "Zwitsal Face & Body Care Cream 50G",
+    "price": 24500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "50.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20115639",
+    "name": "Wall's Ice Cookies N Cream Oreo Vanila 90Ml",
+    "price": 7500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "90.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20115157",
+    "name": "Buavita Juice Orange 1000Ml",
+    "price": 22300.0,
+    "originalprice": 29800.0,
+    "discountpercentage": 25.0,
+    "detail": "1000.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20115145",
+    "name": "Lifebuoy Sabun Mandi Cair Refill Japanese Shiso & Mineral Clay 400mL",
+    "price": 18900.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 32.0,
+    "detail": "400.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20114849",
+    "name": "Ponds Bright Beauty Power Serum 7.5G",
+    "price": 19000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "7.5g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20114106",
+    "name": "Wall's Ice Cream Paddle Pop Minions Vanilla Caramel 90Ml",
+    "price": 5500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "90.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20113904",
+    "name": "Dove Serum Shampoo Anti Ketombe 135mL",
+    "price": 25500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "135.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20113906",
+    "name": "Dove Serum Shampoo Perawatan Rambut Rontok 135mL",
+    "price": 18500.0,
+    "originalprice": 25500.0,
+    "discountpercentage": 27.0,
+    "detail": "135.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20113905",
+    "name": "Dove Serum Shampoo Perawatan Rambut Rusak 135mL",
+    "price": 25500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "135.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20113907",
+    "name": "Dove Serum Shampoo Perawatan Rambut Rontok 290mL",
+    "price": 48500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "290.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20113328",
+    "name": "Ponds Vitamin Duo Sheet Mask Vitamin B6 + Tomato 20G",
+    "price": 23400.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "20.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20113327",
+    "name": "Ponds Age Miracle Serum Mask Advanced Youth 25G",
+    "price": 31900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "25.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20112481",
+    "name": "Wall's Ice Cream Cornetto Brown Sugar Boba 135Ml",
+    "price": 12200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "135.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20113178",
+    "name": "Sunsilk Vitamin Hair Mist 3 In 1 40Ml",
+    "price": 16300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "40.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20112743",
+    "name": "Ponds Bright Beauty/Miracle Whip Collagen 100G",
+    "price": 37400.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20112492",
+    "name": "Sunlight Pencuci Piring Lime 420mL",
+    "price": 8200.0,
+    "originalprice": 9900.0,
+    "discountpercentage": 17.0,
+    "detail": "420.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20112491",
+    "name": "Sunlight Pencuci Piring Lime 910mL",
+    "price": 14700.0,
+    "originalprice": 21700.0,
+    "discountpercentage": 32.0,
+    "detail": "910.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20109967",
+    "name": "Clear Men Shampoo 3 In 1 Active Clean 160Ml",
+    "price": 32900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "160.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20111362",
+    "name": "Rexona Deo Roll On Men Motionsense Lime Cool 45Ml",
+    "price": 26200.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "45.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20110117",
+    "name": "Glow & Lovely Bright C Glow Facial Foam Vitamin C 100g",
+    "price": 30900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20110483",
+    "name": "Lux Body Wash Botanicals Soft Skin Soft Rose 825mL",
+    "price": 32500.0,
+    "originalprice": 45900.0,
+    "discountpercentage": 29.0,
+    "detail": "825.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20107538",
+    "name": "Bango Kecap Manis Less Sugar 520mL",
+    "price": 26500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "520.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20110212",
+    "name": "Royco Bumbu Pelezat Serbaguna Sapi 6X9g",
+    "price": 3800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "9.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20110215",
+    "name": "Royco Bumbu Pelezat Serbaguna Ayam 6X9g",
+    "price": 3800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "9.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20108708",
+    "name": "Pepsodent Pasta Gigi Multi Protection Complete 8 150G",
+    "price": 19700.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "150.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20110114",
+    "name": "Pond's Men Pembersih Foam + Scrub Pore Vacuum 90G",
+    "price": 49500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "90.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20109664",
+    "name": "Dove Serum Shampoo Total Hair Fall 680mL",
+    "price": 87000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "680.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20108356",
+    "name": "Vaseline Lip Therapy Rosy Lips 7g",
+    "price": 40300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "7.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20107853",
+    "name": "Wall's Ice Cream Paddle Pop Twister Mermaid 55Ml",
+    "price": 4000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "55.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20108986",
+    "name": "Zwitsal Eau De Toilette 100mL",
+    "price": 36800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20108961",
+    "name": "Jawara Cabai Tabur Jambal 30g",
+    "price": 9000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "30.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20108963",
+    "name": "Jawara Cabai Tabur Bawang Goreng 35g",
+    "price": 9000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "35.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20108197",
+    "name": "Royco Bumbu Kaldu Jamur 40G",
+    "price": 5300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "40.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20088419",
+    "name": "Royco Bumbu Pelezat Serbaguna Ayam 460g",
+    "price": 18300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "460.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20107245",
+    "name": "Pepsodent Kids Patrick Pasta + Sikat Gigi Strawberry 45G",
+    "price": 14900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "45.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20106821",
+    "name": "Molto Pewangi Pakaian Sport Fresh Purple 780Ml",
+    "price": 10900.0,
+    "originalprice": 16900.0,
+    "discountpercentage": 36.0,
+    "detail": "780.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20106302",
+    "name": "Vaseline Repairing Jelly Aloe 50Ml",
+    "price": 34500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "50.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20105698",
+    "name": "Zwitsal Kids Bubble Bath Clean & Fresh 280Ml",
+    "price": 30900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "280.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20041573",
+    "name": "Blue Band Margarine Cake & Cookies 1kg",
+    "price": 93000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "1.0kg",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20053168",
+    "name": "Blue Band Margarine Master 2Kg",
+    "price": 137900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "2.0kg",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20044754",
+    "name": "Bango Kecap Manis Refill 1.525Kg",
+    "price": 49500.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "1.525kg",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20105341",
+    "name": "Axe Body Spray Deodorant Ice Chill 135mL",
+    "price": 42000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "135.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20041164",
+    "name": "Blue Band Margarine Cake & Cookie 200G",
+    "price": 14900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "200.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20104950",
+    "name": "Rinso Molto Detergent Cair Japanese Peach 510mL",
+    "price": 10900.0,
+    "originalprice": 14900.0,
+    "discountpercentage": 27.0,
+    "detail": "510.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20105340",
+    "name": "Lifebuoy Sabun Mandi Cair Refill Yoghurt Care 400mL",
+    "price": 18900.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 32.0,
+    "detail": "400.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20105227",
+    "name": "Wall's Ice Cream Paddle Pop Mochi Choco Vanilla 45Ml",
+    "price": 3000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "45.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20104647",
+    "name": "Ponds Pembersih Wajah Anti Bacterial 100G",
+    "price": 36800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "100.0g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20104271",
+    "name": "Vaseline Lip Therapy Rosy Lips 4.8G",
+    "price": 29900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "4.8g",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20104003",
+    "name": "Rinso Matic Deterjen + Molto 1.8Kg",
+    "price": 83300.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "1.8kg",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20056192",
+    "name": "Wall's Ice Cream Neopolitan Extra Creamy 700Ml",
+    "price": 38000.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "700.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20103777",
+    "name": "Wall's Ice Cream Paddle Doraemon 60Ml",
+    "price": 3100.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "60.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  },
+  {
+    "id": "20103617",
+    "name": "Lifebuoy Antibacterial Handwash Total 10 200Ml",
+    "price": 20900.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "200.0ml",
+    "platform": "www.klikindomaret.com",
+    "createdat": "2023-12-23 17:12:11 +0000"
+  }
+]

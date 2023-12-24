@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Axe Hairstyling High Hold Matte Wax 75G 1 karton",
+    "price": 514800.0,
+    "originalprice": null,
+    "discountpercentage": null,
+    "detail": "75.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:54:42 +0700"
+  },
+  {
+    "id": 2,
+    "name": "Lifebuoy Sabun Cair Honey & Habbatussauda 450Ml",
+    "price": 23800.0,
+    "originalprice": 40900.0,
+    "discountpercentage": 42.0,
+    "detail": "450.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:54:42 +0700"
+  }
+]

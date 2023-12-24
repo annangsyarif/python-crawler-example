@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "CIF Power & Shine Spray Pembersih Dapur 700ml",
+    "price": 37200.0,
+    "originalprice": 54900.0,
+    "discountpercentage": 32.0,
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:53:00 +0700"
+  },
+  {
+    "id": 2,
+    "name": "CIF Power & Shine Spray Pembersih Kamar Mandi 700ml",
+    "price": 37200.0,
+    "originalprice": 54900.0,
+    "discountpercentage": 32.0,
+    "detail": "700.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:53:00 +0700"
+  },
+  {
+    "id": 3,
+    "name": "CIF Total Finish Limescale Removal Spray Pembersih Kerak Kapur 435ml",
+    "price": 37900.0,
+    "originalprice": 55900.0,
+    "discountpercentage": 32.0,
+    "detail": "435.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:53:00 +0700"
+  },
+  {
+    "id": 4,
+    "name": "CIF Total Finish Oven & Grill Spray Pembersih Spesialis 435ml",
+    "price": 37900.0,
+    "originalprice": 55900.0,
+    "discountpercentage": 32.0,
+    "detail": "435.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:53:00 +0700"
+  },
+  {
+    "id": 5,
+    "name": "CIF Total Finish Mould Stain Remover Spray Pembersih Anti Jamur 435ml",
+    "price": 37900.0,
+    "originalprice": 55900.0,
+    "discountpercentage": 32.0,
+    "detail": "435.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:53:00 +0700"
+  },
+  {
+    "id": 6,
+    "name": "CIF Total Finish Stainless Steel Spray Pembersih Spesialis 435ml",
+    "price": 37900.0,
+    "originalprice": 55900.0,
+    "discountpercentage": 32.0,
+    "detail": "435.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:53:00 +0700"
+  },
+  {
+    "id": 7,
+    "name": "Dove 1 Minute Super Conditioner - Intensive Hair Fall Treatment 170 Ml",
+    "price": 26000.0,
+    "originalprice": 33300.0,
+    "discountpercentage": 22.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:53:00 +0700"
+  },
+  {
+    "id": 8,
+    "name": "Dove 1 Minute Super Conditioner - Intensive Damage Treatment 170 Ml",
+    "price": 26000.0,
+    "originalprice": 33300.0,
+    "discountpercentage": 22.0,
+    "detail": "170.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 22:53:00 +0700"
+  }
+]

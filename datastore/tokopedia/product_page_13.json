@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Sunsilk Shampoo Soft & Smooth 900ml",
+    "price": 87600.0,
+    "originalprice": 102200.0,
+    "discountpercentage": 14.0,
+    "detail": "900.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:33 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Love Beauty & Planet Body Mist Fragrance Lavender & Vanilla 100ML",
+    "price": 82300.0,
+    "originalprice": 95400.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:33 +0000"
+  },
+  {
+    "id": 3,
+    "name": "Sunlight Sabun Cuci Piring Jeruk Nipis Refill 370ml",
+    "price": 7500.0,
+    "originalprice": 9600.0,
+    "discountpercentage": 22.0,
+    "detail": "370.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:33 +0000"
+  },
+  {
+    "id": 4,
+    "name": "Love Beauty & Planet Body Mist Fragrance Rose & Coconut 100ML",
+    "price": 82300.0,
+    "originalprice": 95400.0,
+    "discountpercentage": 14.0,
+    "detail": "100.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:33 +0000"
+  },
+  {
+    "id": 5,
+    "name": "Lifebuoy Fresh Coconut Water & Mint Refill 400ml",
+    "price": 22200.0,
+    "originalprice": 38900.0,
+    "discountpercentage": 43.0,
+    "detail": "400.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:33 +0000"
+  },
+  {
+    "id": 6,
+    "name": "Rexona Men Deodorant Anti-Perspirant Ultra Recharge Roll On 45Ml",
+    "price": 19300.0,
+    "originalprice": 22400.0,
+    "discountpercentage": 14.0,
+    "detail": "45.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:33 +0000"
+  },
+  {
+    "id": 7,
+    "name": "Lifebuoy Fresh Coconut Water & Mint Botol 300ml",
+    "price": 38400.0,
+    "originalprice": 44000.0,
+    "discountpercentage": 13.0,
+    "detail": "300.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:33 +0000"
+  },
+  {
+    "id": 8,
+    "name": "Lifebuoy Fresh Coconut Water & Mint Refill 250ml",
+    "price": 17100.0,
+    "originalprice": 27900.0,
+    "discountpercentage": 39.0,
+    "detail": "250.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:33 +0000"
+  },
+  {
+    "id": 9,
+    "name": "Pepsodent Complete 8 Pasta Gigi Siwak Habbatussauda Halal 190G x3",
+    "price": 46400.0,
+    "originalprice": 80700.0,
+    "discountpercentage": 43.0,
+    "detail": "190.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:14:33 +0000"
+  }
+]

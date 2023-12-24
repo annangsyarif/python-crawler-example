@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Dove Beauty Bar Sabun Batang Pink 90G",
+    "price": 9425.0,
+    "originalprice": 15900.0,
+    "discountpercentage": 41.0,
+    "detail": "90.0g",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:04 +0000"
+  },
+  {
+    "id": 2,
+    "name": "Pears Pure & Gentle Body Wash With Lemon Flower Extract 500Ml",
+    "price": 83600.0,
+    "originalprice": 122900.0,
+    "discountpercentage": 32.0,
+    "detail": "500.0ml",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:04 +0000"
+  },
+  {
+    "id": 3,
+    "name": "St. Ives Fresh Skin Apricot Face Scrub - 90 Gr",
+    "price": 39900.0,
+    "originalprice": 58900.0,
+    "discountpercentage": 32.0,
+    "detail": "90.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:04 +0000"
+  },
+  {
+    "id": 4,
+    "name": "St Ives Face Scrub Blackhead Clearing Green Tea - 90 Gr",
+    "price": 37800.0,
+    "originalprice": 58900.0,
+    "discountpercentage": 36.0,
+    "detail": "90.0gr",
+    "platform": "www.tokopedia.com",
+    "createdat": "2023-12-23 17:13:04 +0000"
+  }
+]
