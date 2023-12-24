@@ -43,8 +43,8 @@ sequenceDiagram
 
 ## Deployment
 ### Setup
-- Check configuration at `requirements/config.json` 
-- Check scrapy settings at `python_crawler/settings.py` especially for selenium configuration
+- Check configuration at [`requirements/config.json`](https://github.com/annangsyarif/python-crawler-example/blob/main/requirements/config.json)
+- Check scrapy settings at [`python_crawler/settings.py`](https://github.com/annangsyarif/python-crawler-example/blob/main/python_crawler/settings.py) especially for selenium configuration
 
 ### Running Locally
 ```shell
